@@ -1,7 +1,5 @@
 # Kelab Teknologi Digital
 
-Laman web rasmi Kelab Teknologi Digital di Japan Malaysia Technical Institute (JMTI). Laman ini memperkenalkan kelab, berkongsi aktiviti dan berita teknologi, serta menyediakan halaman pendaftaran, log masuk dan maklumat bayaran.
-
 ## Kandungan Laman Web
 
 - **Laman Utama (`index.html`)** — Memaparkan maklumat kelab, aktiviti, teknologi yang dipelajari dan berita terkini.
