@@ -2,6 +2,8 @@ const themeButton = document.querySelector(".theme-toggle");
 const menuButton = document.querySelector(".nav-toggle");
 const navLinks = document.querySelector(".nav-links");
 const savedTheme = localStorage.getItem("theme");
+const systemThemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
+let hasManualTheme = savedTheme === "light" || savedTheme === "dark";
 
 function setTheme(theme) {
     document.documentElement.dataset.theme = theme;
@@ -14,11 +16,24 @@ function setTheme(theme) {
     }
 }
 
-setTheme(savedTheme === "dark" ? "dark" : "light");
+setTheme(
+    hasManualTheme
+        ? savedTheme
+        : systemThemeQuery.matches
+          ? "dark"
+          : "light"
+);
+
+systemThemeQuery.addEventListener("change", function (event) {
+    if (!hasManualTheme) {
+        setTheme(event.matches ? "dark" : "light");
+    }
+});
 
 if (themeButton) {
     themeButton.addEventListener("click", function () {
         const newTheme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+        hasManualTheme = true;
         localStorage.setItem("theme", newTheme);
         setTheme(newTheme);
     });

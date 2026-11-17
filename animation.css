@@ -13,6 +13,23 @@
     --interactive-glow: rgba(17, 17, 17, 0.22);
 }
 
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+        color-scheme: dark;
+        --page-background: #050505;
+        --text-color: #f5f0e6;
+        --surface-color: #111111;
+        --border-color: rgba(245, 240, 230, 0.18);
+        --field-background: #0b0b0b;
+        --button-text: #111111;
+        --button-hover-text: #f5f0e6;
+        --important-color: #f5f0e6;
+        --interactive-hover: #262626;
+        --interactive-accent: #f5f0e6;
+        --interactive-glow: rgba(245, 240, 230, 0.18);
+    }
+}
+
 [data-theme="dark"] {
     color-scheme: dark;
     --page-background: #050505;
