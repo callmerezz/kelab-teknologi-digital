@@ -2,204 +2,204 @@
   "schemaVersion": 1,
   "articles": [
     {
-      "id": "techcrunch-a52aba1fad9e",
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "publishedAt": "2026-11-19T23:37:56.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "techcrunch-255531d94837",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-      "publishedAt": "2026-11-19T22:33:26.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "the-verge-f8133dc16aac",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
-      "publishedAt": "2026-11-19T22:31:41.000Z",
-      "source": "The Verge",
-      "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "the-verge-a16a060150c5",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
-      "publishedAt": "2026-11-19T21:59:35.000Z",
-      "source": "The Verge",
-      "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "techcrunch-094a4dd2aa9b",
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "publishedAt": "2026-11-19T21:58:06.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "techcrunch-802831022001",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "publishedAt": "2026-11-19T21:42:31.000Z",
+      "id": "techcrunch-d9d432963654",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "publishedAt": "2026-11-20T20:58:29.000Z",
       "source": "TechCrunch",
       "category": "Keselamatan Siber",
       "image": null
     },
     {
-      "id": "the-verge-d4ae95c1ab10",
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie […]",
-      "publishedAt": "2026-11-19T21:12:06.000Z",
+      "id": "the-verge-28a72b175fa0",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]",
+      "publishedAt": "2026-11-20T20:43:52.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "the-verge-b331a244d62b",
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
-      "publishedAt": "2026-11-19T20:22:17.000Z",
+      "id": "techcrunch-05d06a2ae371",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "the-verge-580903835fa7",
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand […]",
+      "publishedAt": "2026-11-20T19:35:06.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "the-hacker-news-cc7a57153914",
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watching. AI is making some attacks easier",
-      "publishedAt": "2026-11-19T18:47:58.000Z",
+      "id": "techcrunch-81e856d23e6c",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "publishedAt": "2026-11-20T19:32:08.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "the-verge-7fb40abee582",
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy […]",
+      "publishedAt": "2026-11-20T19:15:00.000Z",
+      "source": "The Verge",
+      "category": "Keselamatan Siber",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-verge-3afdf5a7b1a6",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+      "publishedAt": "2026-11-20T18:50:19.000Z",
+      "source": "The Verge",
+      "category": "Teknologi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "techcrunch-e39af07f160c",
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "publishedAt": "2026-11-20T18:34:00.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "the-hacker-news-b44c0a854e15",
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4. The issue could",
+      "publishedAt": "2026-11-20T17:57:20.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg"
     },
     {
-      "id": "the-hacker-news-ea8cebf5d32b",
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP releases fix the flaw, called phpAfterShell. The flaw is tracked as CVE-2026-126714 and rated",
-      "publishedAt": "2026-11-19T16:59:56.000Z",
+      "id": "the-hacker-news-0b4042589720",
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan. \"Bazuka is a full malware framework,",
+      "publishedAt": "2026-11-20T16:58:16.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg"
     },
     {
-      "id": "the-hacker-news-dcfa8134ceac",
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical vulnerabilities affecting all supported PHP versions under specific",
-      "publishedAt": "2026-11-19T15:18:07.000Z",
+      "id": "the-hacker-news-c7b209f2aed8",
+      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled. Fixed kernels shipped",
+      "publishedAt": "2026-11-20T12:20:00.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg"
     },
     {
-      "id": "the-hacker-news-63edce0941e0",
-      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines. The",
-      "publishedAt": "2026-11-19T15:11:06.000Z",
+      "id": "the-hacker-news-b18719ed382d",
+      "title": "The Path to AI Autonomy in the SOC",
+      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027. The pressure",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png"
     },
     {
-      "id": "amanz-18088dba7fc9",
-      "title": "Perisian Pemandu NVIDIA GeForce Pula Boleh Menyebabkan Kerosakan SSD",
-      "url": "https://cms.amanz.my/2026589225/#utm_source=rss&utm_medium=rss&utm_campaign=perisian-pemandu-nvidia-geforce-pula-boleh-menyebabkan-kerosakan-ssd",
-      "summary": "Dua minggu lalu kami terbitkan laporan pepijat dalam perisian AMD Software: Adrenalin menyebabkan data ditulis berkali-kali sehingga boleh memendekkan hayat SSD. Hari ini isu yang sama juga dikesan pada perisian pemandu NVIDIA GeForce. Pengguna menyedari perisian pemandu versi 621.24 menulis fail log ke SSD berterusan pada kadar setinggi 70GB setiap jam. Tidak seperti cakera keras, […]",
-      "publishedAt": "2026-11-19T03:55:13.000Z",
+      "id": "amanz-f050b2bba9a2",
+      "title": "Meta Charm Akan Dijual Pada Harga Sekitar $300",
+      "url": "https://cms.amanz.my/2026589351/#utm_source=rss&utm_medium=rss&utm_campaign=meta-charm-akan-dijual-pada-harga-sekitar-300",
+      "summary": "Pada September lalu, Mark Zuckerberg memperlihatan peranti kecerdasan buatan (AI) Muse Charm yang dilabel sebagai Tamagotchi moden dengan ejen AI Muse terbina. Menurut laporan The Information, Meta akan menjual peranti AI ini pada harga $300 (~RM 1234) sebuah. Ia disasarkan akan dilancarkan sempena musim perayaan akhir tahun ini. Dengan setiap pembelian, pelanggan juga menerima langganan […]",
+      "publishedAt": "2026-11-20T03:17:09.000Z",
       "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2025/01/NVIDIA-GeForce-RTX-5090-805x453.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/09/Muse-Charm-1.jpg"
     },
     {
-      "id": "amanz-cc17153aba9f",
-      "title": "Play Store Wajibkan Semua Aplikasi Menyokong Peranti Lipat Menjelang April 2027",
-      "url": "https://cms.amanz.my/2026589205/#utm_source=rss&utm_medium=rss&utm_campaign=play-store-wajibkan-semua-aplikasi-menyokong-peranti-lipat-menjelang-april-2027",
-      "summary": "iPhone Duo baru sahaja dilancarkan bulan lalu dan Apple mengatakan lebih 200,000 aplikasi App Store kini telah dioptimasikan pada telefon lipat pertama mereka. Di Android, walaupun sudah lapan tahun ditawarkan ke pasaran, sokongan penuh aplikasi pada skrin lipat masih kurang memuaskan. Oleh itu Google telah mengeluarkan garis panduan baharu aplikasi perlu menyokong sepenuhnya peranti lipat […]",
-      "publishedAt": "2026-11-19T03:20:36.000Z",
+      "id": "soyacincau-4f77fd6bef9b",
+      "title": "Tune Talk gets licence from MCMC to own and operate network infrastructure",
+      "url": "https://soyacincau.com/2026/11/20/tune-talk-mcmc-nfp-licence-operate-network-infra/",
+      "summary": "Tune Talk has secured a Network Facilities Provider (Individual) (NFP(I)) licence from the Malaysian Communications and Multimedia Commission (MCMC), giving the telco greater flexibility to own and provide its own network infrastructure in Malaysia. The latest approval is said to be another step towards Tune Talk gaining greater control over its network operations, following the […]",
+      "publishedAt": "2026-11-20T03:13:19.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/01/260123-Tune-Talk-Tuney-advertorial-1-150x150.jpg"
+    },
+    {
+      "id": "amanz-706466e571e9",
+      "title": "Apple Sedang Membangunkan Ejen AI Yang Boleh Menggunakan Aplikasi dan Menulis Kod",
+      "url": "https://cms.amanz.my/2026589348/#utm_source=rss&utm_medium=rss&utm_campaign=apple-sedang-membangunkan-ejen-ai-yang-boleh-menggunakan-aplikasi-dan-menulis-kod",
+      "summary": "Apple setakat ini tidak begitu terkenal dengan pembangunan model kecerdasan buatan (AI) tersendiri seperti OpenAI, Anthropic, Google, Meta dan Microsoft. Apple Intelligence misalnya menggunakan Gemini sebagai model asas sebelum diubahsuai untuk keperluan mereka. Tetapi Apple telah mengiklankan jawatan yang memberikan petanda mereka sedang membangunkan ejen AI tersendiri menurut Bloomberg. Ejen AI Apple kelak mampu m…",
+      "publishedAt": "2026-11-20T03:01:46.000Z",
       "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Android-foldable-apps-A.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/09/AI-Ejen-scaled.jpg"
     },
     {
-      "id": "amanz-61ffaed56e97",
-      "title": "Alibaba Cloud Mengumumkan Pertandingan Kita Bersama AI",
-      "url": "https://cms.amanz.my/2026589210/#utm_source=rss&utm_medium=rss&utm_campaign=alibaba-cloud-mengumumkan-pertandingan-kita-bersama-ai",
-      "summary": "Baru sahaja Alibaba Cloud melancarkan Model AI Mercu terbaru mereka iaitu Qwen4-Max awal minggu ini, hari ini di acara Qwen Conference Malaysia mereka mengumumkan pertandingan Kita Bersama AI dengan kerjasama MyDIGITAL Corporation bagi memacu penggunaan AI di kalangan rakyat tempatan. Pertandingan Kita Bersama AI ini menyasarkan sehingga 100,000 penyertaan dengan dua kategori dirancang. Kategori pertama […]",
-      "publishedAt": "2026-11-19T02:58:54.000Z",
+      "id": "amanz-3e2baea58be7",
+      "title": "Anthropic Kini Dinilaikan $1.3 Trilion – Lebih Tinggi Berbanding Samsung",
+      "url": "https://cms.amanz.my/2026589344/#utm_source=rss&utm_medium=rss&utm_campaign=anthropic-kini-dinilaikan-1-3-trilion-lebih-tinggi-berbanding-samsung",
+      "summary": "Anthropic hari ini telah pun mula didagangkan secara rasminya melalui bursa Nasdaq di Amerika Syarikat. Melalui nilai dagangan saham semasa, Anthropic kini dinilaikan sekitar $1.27 trilion, sekaligus memposisikan syarikat berkenaan di kedudukan syarikat ke-12 paling bernilai di dunia. Untuk perbandingan kasar, Meta di kedudukan ke-10 dengan nilai $1.5 trilion, Tesla pada nilai $1.48 trilion di […]",
+      "publishedAt": "2026-11-20T02:30:32.000Z",
       "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Alibaba-Cloud-Qwen-Conference-Malaysia-Kita-Bersama-Ai-IMG_2141.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Anthropic-Nasdaq.jpg"
     },
     {
-      "id": "amanz-352ca1327a92",
-      "title": "Pusat Data Ketiga Alibaba Cloud Dibuka Di Johor, Menjumlahlan Pusat Data Keenam di Malaysia",
-      "url": "https://cms.amanz.my/2026589206/#utm_source=rss&utm_medium=rss&utm_campaign=pusat-data-ketiga-alibaba-cloud-dibuka-di-johor-menjumlahlan-pusat-data-keenam-di-malaysia",
-      "summary": "Jika bulan lepas menyaksikan pengumuman besar dari AWS, Google dan Microsoft mengenai agenda AI, pelaburan berkaitannya dan juga pusat data, hari ini Alibaba Cloud di acara Qwen Conference Malaysia berkongsi mengenai pembukaan pusat data mereka yang ketiga di Johor, selepas pusat data kedua di Johor di buka pada Jun 2026 yang lalu. Pusat data ketiga […]",
-      "publishedAt": "2026-11-19T02:53:31.000Z",
+      "id": "soyacincau-f53b3c9e9425",
+      "title": "Vivo V80 Malaysia: 144Hz AMOLED screen, ZEISS cameras and 7,200mAh battery, available from RM2,399",
+      "url": "https://soyacincau.com/2026/11/20/vivo-v80-malaysia-official-launch-price-specs/",
+      "summary": "Vivo has officially launched the Vivo V80 in Malaysia, its latest mid-range smartphone which succeeds the V70. The new model features an updated design, a larger 7,200mAh battery and a faster 144Hz AMOLED display, while retaining its ZEISS co-engineered camera system. The Vivo V80 is offered in three storage configurations, all equipped with 8GB RAM. As part […]",
+      "publishedAt": "2026-11-20T02:10:32.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261119-vivo-v80-malaysia-launch-01-150x150.jpg"
+    },
+    {
+      "id": "soyacincau-8d8b9958e850",
+      "title": "Huawei Nova 16s and Nova 16s Pro now available in Malaysia, priced from RM1,999 after rebate",
+      "url": "https://soyacincau.com/2026/11/20/huawei-nova-16s-and-nova-16s-pro-malaysia-launch-price-specs/",
+      "summary": "Huawei has officially launched its latest Nova 16s series in Malaysia which comes in two models: Nova 16s and Nova 16s Pro. The new mid-range smartphones offer 5G connectivity powered by Huawei’s Kirin processors, large 7,000mAh batteries and 100W fast charging. The main highlight is the higher-end Nova 16s Pro, which features a 200MP main […]",
+      "publishedAt": "2026-11-20T01:47:07.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261119-huawei-nova-16s-malaysia-150x150.jpg"
+    },
+    {
+      "id": "soyacincau-1ee28c1a967c",
+      "title": "Denza D9 Prestige AWD now in Malaysia for RM346k: BYD Flash Charging, 650km range",
+      "url": "https://soyacincau.com/2026/11/20/denza-d9-prestige-awd-malaysia-specs-price/",
+      "summary": "Following recent teasers and earlier reports, BYD Malaysia has officially launched the new Denza D9 Prestige AWD in Malaysia. Stepping in as the sole variant to replace the outgoing Advanced FWD and Premium AWD trims, this updated luxury electric MPV is the 2nd BYD model in Malaysia that supports BYD’s 2nd-generation Blade Battery and ultra-fast […]",
+      "publishedAt": "2026-11-19T18:05:23.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261120-denza-d9-prestige-awd-my-launch01-150x150.jpg"
+    },
+    {
+      "id": "amanz-0dcd4ee39eb9",
+      "title": "GWM ORA 5 Hi2 HEV Yang Dipasang di Malaysia Dilancarkan Pada Harga RM 106,800",
+      "url": "https://cms.amanz.my/2026589338/#utm_source=rss&utm_medium=rss&utm_campaign=kereta-hibrid-gwm-ora-5-hi2-hev-yang-dipasang-di-malaysia-dilancarkan-pada-harga-rm-106800",
+      "summary": "Dalam barisan kereta yang ditawarkan GWM Malaysia, terdapat siri ORA yang hadir dengan bentuk yang lebih ‘lembut’ dengan bahasa rekaan yang elegan. Bermula dengan kereta elektrik Ora Good Cat, seterusnya sedan Ora 07, akhirnya hari ini GWM Malaysia memperkenalkan ahli baru dalam siri ORA mereka iaitu GWM ORA 5 Hi2 HEV yang merupakan kereta hibrid. […]",
+      "publishedAt": "2026-11-19T12:28:02.000Z",
       "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2025/06/Pusat-Data-Center-805x453.jpg"
-    },
-    {
-      "id": "soyacincau-7e51a44eaf81",
-      "title": "MCMC calls 19 Nov disaster alert test fake news. But who started the confusion?",
-      "url": "https://soyacincau.com/2026/11/19/mcmc-says-19-november-alert-test-fake-news/",
-      "summary": "Malaysia’s new disaster alert system has caused confusion even before its public rollout. After weeks of media reports about a scheduled test on 19 November 2026, the Malaysian Communications and Multimedia Commission (MCMC) has clarified that no public alert test will take place on that date. In its latest statement posted at 11:37pm on 18 […]",
-      "publishedAt": "2026-11-18T17:25:37.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2024/07/240727-mcmc-office-logo-150x150.jpg"
-    },
-    {
-      "id": "soyacincau-d715d0a280d4",
-      "title": "2027 Proton S70 RS open for booking: RM1,000 early bird rebate, pricing still unknown",
-      "url": "https://soyacincau.com/2026/11/18/proton-s70-rs-booking-open-rm1k-rebate/",
-      "summary": "Proton has officially opened the order books for the 2027 Proton S70 RS, which was first revealed to the world earlier this month. As reported before, the RS moniker on the name stands for Refined Sportiness, which Proton said is guided by the theme of “Performance with Style.” If you were hoping to see the […]",
-      "publishedAt": "2026-11-18T15:59:08.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261118-proton-s70-rs-sc04-150x150.jpg"
-    },
-    {
-      "id": "soyacincau-16c39b1bcc7c",
-      "title": "Klook now lets you save unused eSIM data for your next trip",
-      "url": "https://soyacincau.com/2026/11/18/klook-data-bank-save-unused-esim-data-for-next-trip/",
-      "summary": "If you frequently travel overseas, chances are you’ve purchased a travel eSIM with more data than you actually need. Unfortunately, most prepaid travel eSIM plans come with a fixed validity period, which means any unused data is forfeited after your trip ends. Klook wants to address this issue with its new Data Bank feature, which allows travellers […]",
-      "publishedAt": "2026-11-18T14:32:14.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261118-klook-esim-databank-150x150.jpg"
-    },
-    {
-      "id": "soyacincau-877ce3ca7b6b",
-      "title": "Kummute partners with ComfortDelGro’s Zig to expand Malaysia-Singapore cross-border rides",
-      "url": "https://soyacincau.com/2026/11/18/kummute-cdg-zig-enhance-malaysia-singapore-cross-border-rides/",
-      "summary": "Malaysians travelling to Singapore will soon have more options for cross-border transport. Malaysian mobility platform Kummute has announced a partnership with Singapore’s Zig by ComfortDelGro to enhance cross-border eHailing services between Malaysia and Singapore. The partnership will allow ride requests to be fulfilled by vehicles from either operator’s network, providing access to a larger combined […]",
-      "publishedAt": "2026-11-18T10:56:13.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/kommute-cdg-singapore-malaysia-crossborder-150x150.jpeg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/GWM-ORA-5-Hi2-HEV-malaysia-IMG_2166.jpg"
     }
   ]
 }
