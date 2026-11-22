@@ -2,134 +2,174 @@
   "schemaVersion": 1,
   "articles": [
     {
-      "id": "techcrunch-d9d432963654",
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
-      "publishedAt": "2026-11-20T20:58:29.000Z",
+      "id": "the-verge-69dbf907dcbb",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]",
+      "publishedAt": "2026-11-21T21:59:31.000Z",
+      "source": "The Verge",
+      "category": "Teknologi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "techcrunch-7289e21f33e2",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
       "source": "TechCrunch",
       "category": "Keselamatan Siber",
       "image": null
     },
     {
-      "id": "the-verge-28a72b175fa0",
-      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]",
-      "publishedAt": "2026-11-20T20:43:52.000Z",
-      "source": "The Verge",
-      "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "techcrunch-05d06a2ae371",
-      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "id": "techcrunch-8ed913cfa76c",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
       "source": "TechCrunch",
       "category": "Teknologi",
       "image": null
     },
     {
-      "id": "the-verge-580903835fa7",
-      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand […]",
-      "publishedAt": "2026-11-20T19:35:06.000Z",
+      "id": "the-verge-ec8e761e0eb8",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+      "publishedAt": "2026-11-21T20:03:37.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "techcrunch-81e856d23e6c",
-      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-      "publishedAt": "2026-11-20T19:32:08.000Z",
+      "id": "techcrunch-e41fc8a711e0",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "publishedAt": "2026-11-21T18:44:53.000Z",
+      "source": "TechCrunch",
+      "category": "Keselamatan Siber",
+      "image": null
+    },
+    {
+      "id": "the-verge-f057758653af",
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]",
+      "publishedAt": "2026-11-21T17:42:27.000Z",
+      "source": "The Verge",
+      "category": "Keselamatan Siber",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "techcrunch-d15566b2aef3",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
       "source": "TechCrunch",
       "category": "Teknologi",
       "image": null
     },
     {
-      "id": "the-verge-7fb40abee582",
-      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-      "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy […]",
-      "publishedAt": "2026-11-20T19:15:00.000Z",
-      "source": "The Verge",
-      "category": "Keselamatan Siber",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "the-verge-3afdf5a7b1a6",
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
-      "publishedAt": "2026-11-20T18:50:19.000Z",
+      "id": "the-verge-e9b596cd9deb",
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In […]",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "techcrunch-e39af07f160c",
-      "title": "Super-hot rock geothermal could end data center energy woes",
-      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-      "publishedAt": "2026-11-20T18:34:00.000Z",
-      "source": "TechCrunch",
+      "id": "the-hacker-news-059e30cfca73",
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's",
+      "publishedAt": "2026-11-21T11:53:07.000Z",
+      "source": "The Hacker News",
       "category": "Teknologi",
-      "image": null
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg"
     },
     {
-      "id": "the-hacker-news-b44c0a854e15",
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4. The issue could",
-      "publishedAt": "2026-11-20T17:57:20.000Z",
+      "id": "the-hacker-news-3b426a1ae487",
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
+      "publishedAt": "2026-11-21T11:05:53.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTmX4ayWzvM0EzPttZ610B2837FppeU5AEmQmztLH2lai78EDQtjrp4wVI_bubSe2c2NGBE5sqBT9Py1mKkHQKN2faBkOzU70d7FntrpYD7Et2eeBxLNy2gzByAo1i8Aaw_VMBZD62RnBMY2md3iNfegK9M_NR5qTRDBw8s0uwKy1w7JoTV0zkDS_17Lse/s1600/pgp.jpg"
     },
     {
-      "id": "the-hacker-news-0b4042589720",
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an investigation into an NFC-relay banking Trojan. \"Bazuka is a full malware framework,",
-      "publishedAt": "2026-11-20T16:58:16.000Z",
+      "id": "the-hacker-news-31de93106fde",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
+      "publishedAt": "2026-11-21T11:03:17.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEIG6Wgi3wGQXrsdGKEf4ORPFjHVGpRkoSUPraOJfKhGmB0vYFojLq2mCuOP3a71_XpNZusvn45ZDa1J3a7eQ0WE3XJY0FGunHVWB1yHBluJT5vSDCmzkhaFGiHjeKbnoah6noyZ3mNInS-mjJK1Gfcf7jT3A60ZYR_eknSgt_sEa6MNGM-DA5-aLXMbZ5/s1600/medical-ai.jpg"
     },
     {
-      "id": "the-hacker-news-c7b209f2aed8",
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with AMD processors and nested virtualization enabled. Fixed kernels shipped",
-      "publishedAt": "2026-11-20T12:20:00.000Z",
+      "id": "the-hacker-news-c5410e0ea07b",
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal",
+      "publishedAt": "2026-11-21T08:49:20.000Z",
       "source": "The Hacker News",
-      "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg"
+      "category": "Teknologi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cVX1DZUDMTkSc3kGcO8KsGd-MIBr6py39SuaRxG1wCxVVfKIQhiQaywRpjn95FQV4tMy0dWyNc49745cwqBBLpGzVK_eut-DGLBaidiiYCdIH65bXGtopuPJ7dofJzAJVJ6cWrKp2JJb5gNrODQuWtK7vZZp824ecrz4_DHWWJIaC5wS6aYfsMsKshg4/s1600/signal.jpg"
     },
     {
-      "id": "the-hacker-news-b18719ed382d",
-      "title": "The Path to AI Autonomy in the SOC",
-      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level. Overall, AI SOC was the highest ranking initiative for 2027. The pressure",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "source": "The Hacker News",
-      "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png"
-    },
-    {
-      "id": "amanz-f050b2bba9a2",
-      "title": "Meta Charm Akan Dijual Pada Harga Sekitar $300",
-      "url": "https://cms.amanz.my/2026589351/#utm_source=rss&utm_medium=rss&utm_campaign=meta-charm-akan-dijual-pada-harga-sekitar-300",
-      "summary": "Pada September lalu, Mark Zuckerberg memperlihatan peranti kecerdasan buatan (AI) Muse Charm yang dilabel sebagai Tamagotchi moden dengan ejen AI Muse terbina. Menurut laporan The Information, Meta akan menjual peranti AI ini pada harga $300 (~RM 1234) sebuah. Ia disasarkan akan dilancarkan sempena musim perayaan akhir tahun ini. Dengan setiap pembelian, pelanggan juga menerima langganan […]",
-      "publishedAt": "2026-11-20T03:17:09.000Z",
+      "id": "amanz-c93c5fe8e012",
+      "title": "SoftBank Baru-Baru Ini Telah Meneroka Pengambil-Alihan SK Hynix Pada Nilai Mencapai $1 Trilion",
+      "url": "https://cms.amanz.my/2026589515/#utm_source=rss&utm_medium=rss&utm_campaign=softbank-baru-baru-ini-telah-meneroka-pengambil-alihan-sk-hynix-pada-nilai-mencapai-1-trilion",
+      "summary": "CEO SoftBank, Masayoshi Son baru-baru ini telah berbincang dengan sejumlah institusi kewangan di Amerika Syarikat dalam mendana kewangan untuk pengambil-alihan SK Hynix pada nilai mencapai $1 trilion. SK Hynix sedia menerajui dalam arena semikonduktor, dan merupakan antara syarikat terbesar di Korea Selatan. Mengikut nilai dagangan saham semasa, SK Hynix dinilaikan sekitar $584 bilion. Perkembangan kecerdasan […]",
+      "publishedAt": "2026-11-21T03:07:14.000Z",
       "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/09/Muse-Charm-1.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2017/02/sk-hynix-logo-805x486.jpg"
+    },
+    {
+      "id": "amanz-09bdb07b10c1",
+      "title": "Trump Akan Sekat Syarikat AS Bina Pusat Data AI di Luar Negara",
+      "url": "https://cms.amanz.my/2026589508/#utm_source=rss&utm_medium=rss&utm_campaign=trump-akan-sekat-syarikat-as-bina-pusat-data-ai-di-luar-negara",
+      "summary": "Presiden Donald Trump mengeluarkan amaran menghalang syarikat dari Amerika Syarikat daripada membina pusat data kecerdasan buatan (AI) di luar negara. Syarikat yang masih terus membina pusa data AI di luar negara akan dikenakan “cukai yang hebat” oleh kerajaan. Pengumuman ini dilakukan oleh Trump dalam sidang media di White House sebaik sahaja pulang daripada persidangan APEC […]",
+      "publishedAt": "2026-11-21T01:54:39.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2025/06/Pusat-Data-Center-805x453.jpg"
+    },
+    {
+      "id": "soyacincau-91d20210bd09",
+      "title": "YTL Power denies helping China obtain Nvidia GPUs, says data centres unaffected by US curbs",
+      "url": "https://soyacincau.com/2026/11/21/ytl-power-denies-helping-china-obtain-nvidia-cpu-johor-data-centre/",
+      "summary": "YTL Power International Berhad has denied allegations that its data centres in Malaysia had assisted in the transfer of Nvidia’s GPUs to Chinese customers. The statement comes following a report by The New York Times (NYT) alleging that YTL’s data centre in Johor was part of an arrangement which allowed Chinese tech giant Alibaba to […]",
+      "publishedAt": "2026-11-21T01:49:41.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261121-ytl-power-johor-data-centre-iskandar-150x150.jpg"
+    },
+    {
+      "id": "amanz-af77aa76e24c",
+      "title": "NVIDIA Tampal Pepijat Yang Memendekkan Hayat SSD",
+      "url": "https://cms.amanz.my/2026589503/#utm_source=rss&utm_medium=rss&utm_campaign=nvidia-tampal-pepijat-yang-memendekkan-hayat-ssd",
+      "summary": "NVIDIA mengeluarkan kemas kini GeForce Hotfix Driver 621.35 untuk menampal pepijat menyebabkan fail log bersaiz besar ditulis berkali-kali ke storan SSD yang memendekkan hayat jangka panjangnya. Pengguna kad grafik NVIDIA melaporkan sehingga 30GB data ditulis setiap jam apabila PC tidak digunakan. Isu hanya dikesan selepas perisian pemandu dikemaskini ke 621.14 dan 621.24. Kepada pemilik kad […]",
+      "publishedAt": "2026-11-21T00:48:25.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2025/01/NVIDIA-GeForce-RTX-5090-805x453.jpg"
+    },
+    {
+      "id": "amanz-4d469dca0a93",
+      "title": "GTA VI Catat Jualan 32.5 Juta Unit dan Jana $3.79 Bilion pada Hari Pertama",
+      "url": "https://cms.amanz.my/2026589497/#utm_source=rss&utm_medium=rss&utm_campaign=gta-vi-catat-jualan-32-5-juta-unit-dan-jana-3-79-bilion-pada-hari-pertama",
+      "summary": "Take Two Interactive, penerbit Grand Theft Auto VI mengumumkan 32.5 juta unit permainan video ini telah dijual pada hari pertama pelancarannya 19 Disember lalu. Pada waktu yang sama ia menjana jualan sebanyak $3.79 bilion (~RM 15.59 bilion) dalam tempoh yang sama. Ini menjadikannya pelancaran paling berjaya dalam sejarah industri hiburan. Sebagai perbandingan filem paling laku […]",
+      "publishedAt": "2026-11-21T00:01:33.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/GTA-VI-logo.jpg"
     },
     {
       "id": "soyacincau-4f77fd6bef9b",
@@ -140,26 +180,6 @@
       "source": "SoyaCincau",
       "category": "Teknologi",
       "image": "https://soyacincau.com/wp-content/uploads/2026/01/260123-Tune-Talk-Tuney-advertorial-1-150x150.jpg"
-    },
-    {
-      "id": "amanz-706466e571e9",
-      "title": "Apple Sedang Membangunkan Ejen AI Yang Boleh Menggunakan Aplikasi dan Menulis Kod",
-      "url": "https://cms.amanz.my/2026589348/#utm_source=rss&utm_medium=rss&utm_campaign=apple-sedang-membangunkan-ejen-ai-yang-boleh-menggunakan-aplikasi-dan-menulis-kod",
-      "summary": "Apple setakat ini tidak begitu terkenal dengan pembangunan model kecerdasan buatan (AI) tersendiri seperti OpenAI, Anthropic, Google, Meta dan Microsoft. Apple Intelligence misalnya menggunakan Gemini sebagai model asas sebelum diubahsuai untuk keperluan mereka. Tetapi Apple telah mengiklankan jawatan yang memberikan petanda mereka sedang membangunkan ejen AI tersendiri menurut Bloomberg. Ejen AI Apple kelak mampu m…",
-      "publishedAt": "2026-11-20T03:01:46.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/09/AI-Ejen-scaled.jpg"
-    },
-    {
-      "id": "amanz-3e2baea58be7",
-      "title": "Anthropic Kini Dinilaikan $1.3 Trilion – Lebih Tinggi Berbanding Samsung",
-      "url": "https://cms.amanz.my/2026589344/#utm_source=rss&utm_medium=rss&utm_campaign=anthropic-kini-dinilaikan-1-3-trilion-lebih-tinggi-berbanding-samsung",
-      "summary": "Anthropic hari ini telah pun mula didagangkan secara rasminya melalui bursa Nasdaq di Amerika Syarikat. Melalui nilai dagangan saham semasa, Anthropic kini dinilaikan sekitar $1.27 trilion, sekaligus memposisikan syarikat berkenaan di kedudukan syarikat ke-12 paling bernilai di dunia. Untuk perbandingan kasar, Meta di kedudukan ke-10 dengan nilai $1.5 trilion, Tesla pada nilai $1.48 trilion di […]",
-      "publishedAt": "2026-11-20T02:30:32.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Anthropic-Nasdaq.jpg"
     },
     {
       "id": "soyacincau-f53b3c9e9425",
@@ -180,26 +200,6 @@
       "source": "SoyaCincau",
       "category": "Teknologi",
       "image": "https://soyacincau.com/wp-content/uploads/2026/11/261119-huawei-nova-16s-malaysia-150x150.jpg"
-    },
-    {
-      "id": "soyacincau-1ee28c1a967c",
-      "title": "Denza D9 Prestige AWD now in Malaysia for RM346k: BYD Flash Charging, 650km range",
-      "url": "https://soyacincau.com/2026/11/20/denza-d9-prestige-awd-malaysia-specs-price/",
-      "summary": "Following recent teasers and earlier reports, BYD Malaysia has officially launched the new Denza D9 Prestige AWD in Malaysia. Stepping in as the sole variant to replace the outgoing Advanced FWD and Premium AWD trims, this updated luxury electric MPV is the 2nd BYD model in Malaysia that supports BYD’s 2nd-generation Blade Battery and ultra-fast […]",
-      "publishedAt": "2026-11-19T18:05:23.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261120-denza-d9-prestige-awd-my-launch01-150x150.jpg"
-    },
-    {
-      "id": "amanz-0dcd4ee39eb9",
-      "title": "GWM ORA 5 Hi2 HEV Yang Dipasang di Malaysia Dilancarkan Pada Harga RM 106,800",
-      "url": "https://cms.amanz.my/2026589338/#utm_source=rss&utm_medium=rss&utm_campaign=kereta-hibrid-gwm-ora-5-hi2-hev-yang-dipasang-di-malaysia-dilancarkan-pada-harga-rm-106800",
-      "summary": "Dalam barisan kereta yang ditawarkan GWM Malaysia, terdapat siri ORA yang hadir dengan bentuk yang lebih ‘lembut’ dengan bahasa rekaan yang elegan. Bermula dengan kereta elektrik Ora Good Cat, seterusnya sedan Ora 07, akhirnya hari ini GWM Malaysia memperkenalkan ahli baru dalam siri ORA mereka iaitu GWM ORA 5 Hi2 HEV yang merupakan kereta hibrid. […]",
-      "publishedAt": "2026-11-19T12:28:02.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/GWM-ORA-5-Hi2-HEV-malaysia-IMG_2166.jpg"
     }
   ]
 }
