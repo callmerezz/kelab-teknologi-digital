@@ -2,84 +2,124 @@
   "schemaVersion": 1,
   "articles": [
     {
-      "id": "the-verge-69dbf907dcbb",
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently […]",
-      "publishedAt": "2026-11-21T21:59:31.000Z",
+      "id": "the-verge-587386f956d0",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
+      "publishedAt": "2026-11-23T03:00:00.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "techcrunch-7289e21f33e2",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "publishedAt": "2026-11-21T21:37:10.000Z",
-      "source": "TechCrunch",
-      "category": "Keselamatan Siber",
-      "image": null
-    },
-    {
-      "id": "techcrunch-8ed913cfa76c",
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "publishedAt": "2026-11-21T21:07:42.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "the-verge-ec8e761e0eb8",
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
-      "publishedAt": "2026-11-21T20:03:37.000Z",
-      "source": "The Verge",
-      "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "techcrunch-e41fc8a711e0",
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "publishedAt": "2026-11-21T18:44:53.000Z",
-      "source": "TechCrunch",
-      "category": "Keselamatan Siber",
-      "image": null
-    },
-    {
-      "id": "the-verge-f057758653af",
-      "title": "The FBI and USDA were reportedly hacked",
-      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-      "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law […]",
-      "publishedAt": "2026-11-21T17:42:27.000Z",
+      "id": "the-verge-7d27fffa3906",
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+      "publishedAt": "2026-11-22T22:48:02.000Z",
       "source": "The Verge",
       "category": "Keselamatan Siber",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "techcrunch-d15566b2aef3",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "id": "techcrunch-1da50c247535",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "publishedAt": "2026-11-22T21:42:48.000Z",
       "source": "TechCrunch",
       "category": "Teknologi",
       "image": null
     },
     {
-      "id": "the-verge-e9b596cd9deb",
-      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-      "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In […]",
-      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "id": "techcrunch-90468db0d5a9",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "publishedAt": "2026-11-22T21:14:07.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "techcrunch-7aaba70f0b27",
+      "title": "The best apps to make new friends right now",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "publishedAt": "2026-11-22T21:00:00.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "techcrunch-b51af88d58d8",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "the-verge-a3c4e1668af8",
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
+      "publishedAt": "2026-11-22T17:46:44.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-verge-28c764e2cf8a",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+      "publishedAt": "2026-11-22T17:25:20.000Z",
+      "source": "The Verge",
+      "category": "Teknologi",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-hacker-news-6d087c898942",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of",
+      "publishedAt": "2026-11-22T05:06:55.000Z",
+      "source": "The Hacker News",
+      "category": "Teknologi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png"
+    },
+    {
+      "id": "the-hacker-news-a3c63e958cb9",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
+      "publishedAt": "2026-11-22T05:03:41.000Z",
+      "source": "The Hacker News",
+      "category": "Keselamatan Siber",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg"
+    },
+    {
+      "id": "soyacincau-c863fd944c4d",
+      "title": "MYEVOC: Malaysia needs better enforcement of EV charging safety rules, not more regulations",
+      "url": "https://soyacincau.com/2026/11/22/myevoc-malaysia-needs-better-enforcement-ev-charging-safety-not-more-regulations/",
+      "summary": "The Malaysian EV Owners Club (MYEVOC) has responded to recent calls by the Federation of Malaysian Consumers Associations (FOMCA) for tougher safety regulations for EV charging stations in Malaysia. According to MYEVOC, Malaysia already has strict regulations governing the installation of EV chargers and the bigger issue is non-compliance, unlicensed installations and weak enforcement. Instead […]",
+      "publishedAt": "2026-11-22T02:14:59.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/05/260507-merdeka-118-ev-charger-01-150x150.jpg"
+    },
+    {
+      "id": "soyacincau-4f2194bb1487",
+      "title": "Xiaomi 18 Pro Series: How That Back Display Transforms Notifications, GenAI Mini-Apps, and Mobile Photography",
+      "url": "https://soyacincau.com/2026/11/22/xiaomi-18-pro-malaysia-back-display-features/",
+      "summary": "This post is brought to you by Xiaomi. Smartphone flagships have reached a point where bumping processor clock speeds and tuning sensor megapixels often yield incremental gains. With the new Xiaomi 18 Pro Series, comprising the Xiaomi 18 Pro and Xiaomi 18 Pro Max, Xiaomi is attempting a more noticeable hardware shift: putting a fully […]",
+      "publishedAt": "2026-11-21T17:40:57.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261122-Xiaomi-18-Pro-advertorial-11-150x150.jpg"
     },
     {
       "id": "the-hacker-news-059e30cfca73",
@@ -92,6 +132,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg"
     },
     {
+      "id": "soyacincau-b9266aa736cc",
+      "title": "DC Handal now has 14x EV Charge Points at Gurney Plaza, up to 50kW",
+      "url": "https://soyacincau.com/2026/11/21/dc-handal-gurney-plaza-penang-14-ev-charge-points/",
+      "summary": "Gurney Plaza is becoming a major EV charging hub in Georgetown, Penang. DC Handal has deployed an additional 11 EV charge points consisting of 22kW and 50kW DC Chargers in the mall carpark. The latest deployment brings DC Handal’s total EV charge points in the mall to 14, which covers three different floors. In total, […]",
+      "publishedAt": "2026-11-21T11:24:09.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261121-dc-handal-ev-charger-gurney-plaza-penang-level-B2-1-150x150.jpg"
+    },
+    {
       "id": "the-hacker-news-3b426a1ae487",
       "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
       "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
@@ -102,24 +152,24 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTmX4ayWzvM0EzPttZ610B2837FppeU5AEmQmztLH2lai78EDQtjrp4wVI_bubSe2c2NGBE5sqBT9Py1mKkHQKN2faBkOzU70d7FntrpYD7Et2eeBxLNy2gzByAo1i8Aaw_VMBZD62RnBMY2md3iNfegK9M_NR5qTRDBw8s0uwKy1w7JoTV0zkDS_17Lse/s1600/pgp.jpg"
     },
     {
-      "id": "the-hacker-news-31de93106fde",
-      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
-      "publishedAt": "2026-11-21T11:03:17.000Z",
-      "source": "The Hacker News",
-      "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEIG6Wgi3wGQXrsdGKEf4ORPFjHVGpRkoSUPraOJfKhGmB0vYFojLq2mCuOP3a71_XpNZusvn45ZDa1J3a7eQ0WE3XJY0FGunHVWB1yHBluJT5vSDCmzkhaFGiHjeKbnoah6noyZ3mNInS-mjJK1Gfcf7jT3A60ZYR_eknSgt_sEa6MNGM-DA5-aLXMbZ5/s1600/medical-ai.jpg"
+      "id": "soyacincau-b02db7e74186",
+      "title": "Zeekr opens 24/7 owners’ lounge at X Park Sunway Serene, with 480kW DC charging from RM1.20/kWh",
+      "url": "https://soyacincau.com/2026/11/21/zeekr-owner-lounge-ev-charging-hub-sunway-serene-xpark/",
+      "summary": "Zeekr owners in Malaysia now have an exclusive lounge where they can chill and relax while charging their EVs. Zeekr Sunway has officially opened its new Zeekr Lounge at X Park Sunway Serene in Petaling Jaya, which is accessible to Zeekr owners 24 hours a day, seven days a week. The new lounge complements the […]",
+      "publishedAt": "2026-11-21T04:03:25.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261121-zeekr-lounge-sunway-xpark-sunway-serene-01-150x150.jpg"
     },
     {
-      "id": "the-hacker-news-c5410e0ea07b",
-      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal",
-      "publishedAt": "2026-11-21T08:49:20.000Z",
-      "source": "The Hacker News",
+      "id": "amanz-bfdb75902c90",
+      "title": "“Founders & Funders” Akan Mengetengahkan Usahawan-Usahawan Kelahiran Pulau Pinang Berkongsi Pengalaman Pada 26 November",
+      "url": "https://cms.amanz.my/2026589518/#utm_source=rss&utm_medium=rss&utm_campaign=founders-funders-akan-mengetengahkan-usahawan-usahawan-kelahiran-pulau-pinang-berkongsi-pengalaman-pada-26-november",
+      "summary": "Pada minggu hadapan, 26 November 2026, acara Founders & Funders bakal di anjurkan di Pulau Pinang, yang akan menyaksikan sesi perkongsian dalam membangunkan startup atau syarikat berasaskan teknologi. Acara berkenaan juga pada masa yang sama akan mengetengahkan usahawan-usahawan kelahiran Pulau Pinang dalam berkongsi pengalaman mereka membangunkan syarikat. Acara berkenaan juga disusun dalam membolehkan hadirin yang…",
+      "publishedAt": "2026-11-21T03:42:34.000Z",
+      "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1cVX1DZUDMTkSc3kGcO8KsGd-MIBr6py39SuaRxG1wCxVVfKIQhiQaywRpjn95FQV4tMy0dWyNc49745cwqBBLpGzVK_eut-DGLBaidiiYCdIH65bXGtopuPJ7dofJzAJVJ6cWrKp2JJb5gNrODQuWtK7vZZp824ecrz4_DHWWJIaC5wS6aYfsMsKshg4/s1600/signal.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Founders-Funders-scaled.jpg"
     },
     {
       "id": "amanz-c93c5fe8e012",
@@ -142,16 +192,6 @@
       "image": "https://cms.amanz.my/wp-content/uploads/2025/06/Pusat-Data-Center-805x453.jpg"
     },
     {
-      "id": "soyacincau-91d20210bd09",
-      "title": "YTL Power denies helping China obtain Nvidia GPUs, says data centres unaffected by US curbs",
-      "url": "https://soyacincau.com/2026/11/21/ytl-power-denies-helping-china-obtain-nvidia-cpu-johor-data-centre/",
-      "summary": "YTL Power International Berhad has denied allegations that its data centres in Malaysia had assisted in the transfer of Nvidia’s GPUs to Chinese customers. The statement comes following a report by The New York Times (NYT) alleging that YTL’s data centre in Johor was part of an arrangement which allowed Chinese tech giant Alibaba to […]",
-      "publishedAt": "2026-11-21T01:49:41.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261121-ytl-power-johor-data-centre-iskandar-150x150.jpg"
-    },
-    {
       "id": "amanz-af77aa76e24c",
       "title": "NVIDIA Tampal Pepijat Yang Memendekkan Hayat SSD",
       "url": "https://cms.amanz.my/2026589503/#utm_source=rss&utm_medium=rss&utm_campaign=nvidia-tampal-pepijat-yang-memendekkan-hayat-ssd",
@@ -160,46 +200,6 @@
       "source": "Amanz",
       "category": "Teknologi",
       "image": "https://cms.amanz.my/wp-content/uploads/2025/01/NVIDIA-GeForce-RTX-5090-805x453.jpg"
-    },
-    {
-      "id": "amanz-4d469dca0a93",
-      "title": "GTA VI Catat Jualan 32.5 Juta Unit dan Jana $3.79 Bilion pada Hari Pertama",
-      "url": "https://cms.amanz.my/2026589497/#utm_source=rss&utm_medium=rss&utm_campaign=gta-vi-catat-jualan-32-5-juta-unit-dan-jana-3-79-bilion-pada-hari-pertama",
-      "summary": "Take Two Interactive, penerbit Grand Theft Auto VI mengumumkan 32.5 juta unit permainan video ini telah dijual pada hari pertama pelancarannya 19 Disember lalu. Pada waktu yang sama ia menjana jualan sebanyak $3.79 bilion (~RM 15.59 bilion) dalam tempoh yang sama. Ini menjadikannya pelancaran paling berjaya dalam sejarah industri hiburan. Sebagai perbandingan filem paling laku […]",
-      "publishedAt": "2026-11-21T00:01:33.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/GTA-VI-logo.jpg"
-    },
-    {
-      "id": "soyacincau-4f77fd6bef9b",
-      "title": "Tune Talk gets licence from MCMC to own and operate network infrastructure",
-      "url": "https://soyacincau.com/2026/11/20/tune-talk-mcmc-nfp-licence-operate-network-infra/",
-      "summary": "Tune Talk has secured a Network Facilities Provider (Individual) (NFP(I)) licence from the Malaysian Communications and Multimedia Commission (MCMC), giving the telco greater flexibility to own and provide its own network infrastructure in Malaysia. The latest approval is said to be another step towards Tune Talk gaining greater control over its network operations, following the […]",
-      "publishedAt": "2026-11-20T03:13:19.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/01/260123-Tune-Talk-Tuney-advertorial-1-150x150.jpg"
-    },
-    {
-      "id": "soyacincau-f53b3c9e9425",
-      "title": "Vivo V80 Malaysia: 144Hz AMOLED screen, ZEISS cameras and 7,200mAh battery, available from RM2,399",
-      "url": "https://soyacincau.com/2026/11/20/vivo-v80-malaysia-official-launch-price-specs/",
-      "summary": "Vivo has officially launched the Vivo V80 in Malaysia, its latest mid-range smartphone which succeeds the V70. The new model features an updated design, a larger 7,200mAh battery and a faster 144Hz AMOLED display, while retaining its ZEISS co-engineered camera system. The Vivo V80 is offered in three storage configurations, all equipped with 8GB RAM. As part […]",
-      "publishedAt": "2026-11-20T02:10:32.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261119-vivo-v80-malaysia-launch-01-150x150.jpg"
-    },
-    {
-      "id": "soyacincau-8d8b9958e850",
-      "title": "Huawei Nova 16s and Nova 16s Pro now available in Malaysia, priced from RM1,999 after rebate",
-      "url": "https://soyacincau.com/2026/11/20/huawei-nova-16s-and-nova-16s-pro-malaysia-launch-price-specs/",
-      "summary": "Huawei has officially launched its latest Nova 16s series in Malaysia which comes in two models: Nova 16s and Nova 16s Pro. The new mid-range smartphones offer 5G connectivity powered by Huawei’s Kirin processors, large 7,000mAh batteries and 100W fast charging. The main highlight is the higher-end Nova 16s Pro, which features a 200MP main […]",
-      "publishedAt": "2026-11-20T01:47:07.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261119-huawei-nova-16s-malaysia-150x150.jpg"
     }
   ]
 }
