@@ -2,104 +2,194 @@
   "schemaVersion": 1,
   "articles": [
     {
-      "id": "the-verge-587386f956d0",
-      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
-      "publishedAt": "2026-11-23T03:00:00.000Z",
+      "id": "the-verge-0ff2877103f3",
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Kagi Mail, you […]",
+      "publishedAt": "2026-11-24T00:02:52.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "the-verge-7d27fffa3906",
-      "title": "We haven’t seen the last of the major tech outages",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
-      "publishedAt": "2026-11-22T22:48:02.000Z",
+      "id": "the-verge-d42171599ff1",
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game's public release […]",
+      "publishedAt": "2026-11-23T23:25:01.000Z",
       "source": "The Verge",
       "category": "Keselamatan Siber",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "techcrunch-1da50c247535",
-      "title": "‘You Can See Everything’ has made more than $100M worldwide",
-      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
-      "publishedAt": "2026-11-22T21:42:48.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "techcrunch-90468db0d5a9",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "publishedAt": "2026-11-22T21:14:07.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "techcrunch-7aaba70f0b27",
-      "title": "The best apps to make new friends right now",
-      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-      "publishedAt": "2026-11-22T21:00:00.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "techcrunch-b51af88d58d8",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
-      "publishedAt": "2026-11-22T18:08:43.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "the-verge-a3c4e1668af8",
-      "title": "Delta flights in and out of Atlanta delayed due to system outage",
-      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
-      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
-      "publishedAt": "2026-11-22T17:46:44.000Z",
+      "id": "the-verge-b8bb9b15845e",
+      "title": "The Verge’s 2026 holiday gift guide",
+      "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+      "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things rolling. […]",
+      "publishedAt": "2026-11-23T23:14:10.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "the-verge-28c764e2cf8a",
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
-      "publishedAt": "2026-11-22T17:25:20.000Z",
+      "id": "techcrunch-3e3d5a4bd74c",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+      "publishedAt": "2026-11-23T23:07:49.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "the-verge-179fd3db322f",
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first browser in years to arrive with an entirely new engine. […]",
+      "publishedAt": "2026-11-23T22:38:09.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ladybird-screenshot.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "the-hacker-news-6d087c898942",
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of",
-      "publishedAt": "2026-11-22T05:06:55.000Z",
-      "source": "The Hacker News",
+      "id": "techcrunch-a72cc3aa1f3d",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "source": "TechCrunch",
       "category": "Teknologi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png"
+      "image": null
     },
     {
-      "id": "the-hacker-news-a3c63e958cb9",
-      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
-      "publishedAt": "2026-11-22T05:03:41.000Z",
+      "id": "techcrunch-eea6d4f773cb",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "publishedAt": "2026-11-23T22:02:05.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "techcrunch-d4f79d2af1d5",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "publishedAt": "2026-11-23T21:47:41.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "the-hacker-news-5495a06dee26",
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified variant \"implements various tricks to hide itself from security tools,\"",
+      "publishedAt": "2026-11-23T17:45:15.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg"
+    },
+    {
+      "id": "the-hacker-news-a75fd36abba0",
+      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+      "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening can turn into a much bigger mess. One breach helps attackers reach another target. Tools people rely",
+      "publishedAt": "2026-11-23T15:10:48.000Z",
+      "source": "The Hacker News",
+      "category": "Keselamatan Siber",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkXdg7nYK3nVTpBuC9FL7mGBvzvUxU0VxYplArVFYSTg2d_6tFITemHBYRAOD29pVBKzfo2aZ9Jsy8avRdACCMqrVdlEER0zn2xIWDBdswcH_nZpnJYkfORK6CEaWwX3f-B8AvkUqbR2TLNa7odUG4PFu1uTk_cwsUt8DPGJBSjjF2wd8VPIa5ATJ4fo3/s1600/crecap.jpg"
+    },
+    {
+      "id": "the-hacker-news-fa4289a3f22e",
+      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+      "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1. \"Binary-parser before 2.3.1 contains a code injection vulnerability that allows",
+      "publishedAt": "2026-11-23T13:22:20.000Z",
+      "source": "The Hacker News",
+      "category": "Keselamatan Siber",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_LYD1NyoPDf8MFXggODpgd2hvazxjShSZltgrLUVic7V-ZIQSjXIzFrkUx0FNoUjlxlIYocEd1AZwGx66uqGWEUyd1TMSlDmxUu8M_r6jdYkmWDZjbszL2WsK7LJzrwI-NgsI7EaLe9WkLwNLGKj8ww3tTOY4X4JPug3RWQqoypUiEpZjVXgBhhcLuZG/s1600/js-cve.jpg"
+    },
+    {
+      "id": "the-hacker-news-2da724996ccb",
+      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting technician's host. \"On November 12, 2026, we observed one managed service",
+      "publishedAt": "2026-11-23T12:41:04.000Z",
+      "source": "The Hacker News",
+      "category": "Keselamatan Siber",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAI03mMW-UNs2bdUuZEiugVBMZq3speEoo8tbQ7TZVITD4fnXiK4l657Tn4-G9fX2w8xLz2zkP9-RTrg3QZPtNMHL_Lg7YRoruCnp8TJA4tbA5bW1YsBZU8QR2FIqSb3_IpN1Le-Xoq2MQ82ZQyRNmYxr8q70PPzijzypDcIDKMIOjrzBweBUiKJ_nuJY/s1600/screens.jpg"
+    },
+    {
+      "id": "soyacincau-c9801ff6268a",
+      "title": "Alibaba’s new Qwen4-Max AI promises better coding and reasoning at lower cost",
+      "url": "https://soyacincau.com/2026/11/23/alibaba-qwen4-max-ai-model-2-4-trillion-parameters/",
+      "summary": "Alibaba has introduced Qwen4-Max, its latest flagship AI model which promises better performance for coding, complex reasoning, visual understanding and autonomous AI tasks. The company claims that Qwen4-Max is its most capable AI model yet, featuring 2.4 trillion parameters, native vision capabilities and a massive 1 million-token context window. Besides outperforming its predecessor, Qwen3.8-Max, Alibaba says the…",
+      "publishedAt": "2026-11-23T03:00:07.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261123-qwencloud-qwen4-max-150x150.jpg"
+    },
+    {
+      "id": "amanz-8e251ab954f5",
+      "title": "Wanita Amerika Berjaya Hidup Setahun Dengan Ginjal Khinzir",
+      "url": "https://cms.amanz.my/2026589541/#utm_source=rss&utm_medium=rss&utm_campaign=wanita-amerika-berjaya-hidup-setahun-dengan-ginjal-khinzir",
+      "summary": "Dunia kekurangan penderma organ dan antara teknologi yang dibangunkan sejak 10 tahun lalu ialah menggunakan organ khinzir sebagai pengganti. Teknologi xenotransplan melangkah setapak lagi selepas seorang wanita di Amerika Syarikat berjaya hidup selama setahun selepas menerima ginjal khinzir. Molly Falco (58) yang tinggal di Boston diumumkan sebagai manusia pertama hidup setahun dengan ginjal khinzir menerusi […]",
+      "publishedAt": "2026-11-23T02:28:24.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2017/08/Khinzir-Organ-Manusia-DNA-805x453.jpg"
+    },
+    {
+      "id": "amanz-815d516b7ea1",
+      "title": "HMD Akan Mengeluarkan Semula Peranti Dengan Kamera PureView",
+      "url": "https://cms.amanz.my/2026589537/#utm_source=rss&utm_medium=rss&utm_campaign=hmd-akan-mengeluarkan-semula-peranti-dengan-kamera-pureview",
+      "summary": "Sebelum era penggunaan jenama syarikat kamera pada telefon pintar, Nokia memperkenalkan siri telefon PureView yang menjanjikan kualiti gambar yang hebat. Nokia tidak lagi mengeluarkan telefon pintar tetapi ini muncul ura-ura HMD Global akan mengembalikan semula peranti dengan jenama PureView. Menurut laporan Suomimobile, video acah peranti baharu yang sedang dibangunkan HMD telah dikongsi ke forum oleh […]",
+      "publishedAt": "2026-11-23T01:44:12.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2019/02/nokia-9-pureview-01-805x452.jpeg"
+    },
+    {
+      "id": "soyacincau-61cb6eae096f",
+      "title": "Crunchyroll Black Friday Deal: Premium subscription from RM6/month for 6 months in Malaysia",
+      "url": "https://soyacincau.com/2026/11/23/crunchyroll-black-friday-2026-premium-subscription-malaysia-deal/",
+      "summary": "If you’re an anime fan, here’s a Black Friday deal worth checking out. Crunchyroll is offering discounted Premium subscriptions in Malaysia, with prices starting from as low as RM6 per month for six months. The limited-time promotion is available to new and eligible returning subscribers. You have to act fast as this offer is available until 30 […]",
+      "publishedAt": "2026-11-23T01:40:03.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261123-crunchyroll-malaysia-black-friday-150x150.jpg"
+    },
+    {
+      "id": "amanz-7b512488397a",
+      "title": "Selangor Akan Membina Loji Tenaga Nuklear Menjelang 2030 – Sedang Mengenalpasti Lokai",
+      "url": "https://cms.amanz.my/2026589532/#utm_source=rss&utm_medium=rss&utm_campaign=selangor-akan-membina-loji-tenaga-nuklear-menjelang-2030-sedang-mengenalpasti-lokai",
+      "summary": "Kerajaan Selangor sedang dalam proses mengenalpasti lokasi untuk membina loji tenaga nuklear pertama Malaysia dengan ia dijangka dibangunkan menjelang 2030. Menteri Besar Selangor, Datuk Seri Amirudin Shari berkata kawasan pesisir pantai antara Kuala Langat ke Sabak Bernam akan menjadi pilihan kerana loji memerlukan bekalan air untuk sistem penyejukan serta keperluan operasi. Tambah beliau lagi, Majlis […]",
+      "publishedAt": "2026-11-23T00:53:46.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2024/12/Nuklear-805x452.jpg"
+    },
+    {
+      "id": "amanz-7c5b81ed0f1a",
+      "title": "Firma Pelaburan MBK Partners Ambil-Alih Wacom",
+      "url": "https://cms.amanz.my/2026589529/#utm_source=rss&utm_medium=rss&utm_campaign=firma-pelaburan-mbk-partners-ambil-alih-wacom",
+      "summary": "Wacom merupakan salah satu jenama terkemuka dalam penawaran sokongan tablet bersama pena, bagi memudahkan input dan lakaran menggunakan pena sekaligus mendigitalkan hasilnya. Syarikat berkenaan telah diasaskan pada 1983 di Jepun, dan turut telah bekerjasama dengan sejumlah syarikat dalam mengintegrasikan teknologi mereka, termasuk Microsoft dan juga Samsung. Malah, Samsung sendiri sebelum ini sedia melabur dan menda…",
+      "publishedAt": "2026-11-22T16:04:19.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Wacom-scaled.jpg"
+    },
+    {
+      "id": "soyacincau-ffec4ec6cfbd",
+      "title": "Samsung appoints Won-Joon Choi as new mobile chief, taking over from TM Roh",
+      "url": "https://soyacincau.com/2026/11/22/samsung-won-joon-choi-new-mobile-mx-chief-succeeds-tm-roh/",
+      "summary": "Samsung Electronics has announced a leadership reshuffle which sees President Won-Joon Choi appointed as the new Head of its Mobile eXperience (MX) Business. After leading Samsung’s mobile business for nearly seven years, TM Roh will continue to serve as the Head of its Device eXperience (DX) Division and co-CEO of Samsung Electronics. Samsung gets a […]",
+      "publishedAt": "2026-11-22T06:48:06.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261122-samsung-mobile-head-won-joon-choi-150x150.jpg"
     },
     {
       "id": "soyacincau-c863fd944c4d",
@@ -110,96 +200,6 @@
       "source": "SoyaCincau",
       "category": "Teknologi",
       "image": "https://soyacincau.com/wp-content/uploads/2026/05/260507-merdeka-118-ev-charger-01-150x150.jpg"
-    },
-    {
-      "id": "soyacincau-4f2194bb1487",
-      "title": "Xiaomi 18 Pro Series: How That Back Display Transforms Notifications, GenAI Mini-Apps, and Mobile Photography",
-      "url": "https://soyacincau.com/2026/11/22/xiaomi-18-pro-malaysia-back-display-features/",
-      "summary": "This post is brought to you by Xiaomi. Smartphone flagships have reached a point where bumping processor clock speeds and tuning sensor megapixels often yield incremental gains. With the new Xiaomi 18 Pro Series, comprising the Xiaomi 18 Pro and Xiaomi 18 Pro Max, Xiaomi is attempting a more noticeable hardware shift: putting a fully […]",
-      "publishedAt": "2026-11-21T17:40:57.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261122-Xiaomi-18-Pro-advertorial-11-150x150.jpg"
-    },
-    {
-      "id": "the-hacker-news-059e30cfca73",
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's",
-      "publishedAt": "2026-11-21T11:53:07.000Z",
-      "source": "The Hacker News",
-      "category": "Teknologi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg"
-    },
-    {
-      "id": "soyacincau-b9266aa736cc",
-      "title": "DC Handal now has 14x EV Charge Points at Gurney Plaza, up to 50kW",
-      "url": "https://soyacincau.com/2026/11/21/dc-handal-gurney-plaza-penang-14-ev-charge-points/",
-      "summary": "Gurney Plaza is becoming a major EV charging hub in Georgetown, Penang. DC Handal has deployed an additional 11 EV charge points consisting of 22kW and 50kW DC Chargers in the mall carpark. The latest deployment brings DC Handal’s total EV charge points in the mall to 14, which covers three different floors. In total, […]",
-      "publishedAt": "2026-11-21T11:24:09.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261121-dc-handal-ev-charger-gurney-plaza-penang-level-B2-1-150x150.jpg"
-    },
-    {
-      "id": "the-hacker-news-3b426a1ae487",
-      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
-      "publishedAt": "2026-11-21T11:05:53.000Z",
-      "source": "The Hacker News",
-      "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTmX4ayWzvM0EzPttZ610B2837FppeU5AEmQmztLH2lai78EDQtjrp4wVI_bubSe2c2NGBE5sqBT9Py1mKkHQKN2faBkOzU70d7FntrpYD7Et2eeBxLNy2gzByAo1i8Aaw_VMBZD62RnBMY2md3iNfegK9M_NR5qTRDBw8s0uwKy1w7JoTV0zkDS_17Lse/s1600/pgp.jpg"
-    },
-    {
-      "id": "soyacincau-b02db7e74186",
-      "title": "Zeekr opens 24/7 owners’ lounge at X Park Sunway Serene, with 480kW DC charging from RM1.20/kWh",
-      "url": "https://soyacincau.com/2026/11/21/zeekr-owner-lounge-ev-charging-hub-sunway-serene-xpark/",
-      "summary": "Zeekr owners in Malaysia now have an exclusive lounge where they can chill and relax while charging their EVs. Zeekr Sunway has officially opened its new Zeekr Lounge at X Park Sunway Serene in Petaling Jaya, which is accessible to Zeekr owners 24 hours a day, seven days a week. The new lounge complements the […]",
-      "publishedAt": "2026-11-21T04:03:25.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261121-zeekr-lounge-sunway-xpark-sunway-serene-01-150x150.jpg"
-    },
-    {
-      "id": "amanz-bfdb75902c90",
-      "title": "“Founders & Funders” Akan Mengetengahkan Usahawan-Usahawan Kelahiran Pulau Pinang Berkongsi Pengalaman Pada 26 November",
-      "url": "https://cms.amanz.my/2026589518/#utm_source=rss&utm_medium=rss&utm_campaign=founders-funders-akan-mengetengahkan-usahawan-usahawan-kelahiran-pulau-pinang-berkongsi-pengalaman-pada-26-november",
-      "summary": "Pada minggu hadapan, 26 November 2026, acara Founders & Funders bakal di anjurkan di Pulau Pinang, yang akan menyaksikan sesi perkongsian dalam membangunkan startup atau syarikat berasaskan teknologi. Acara berkenaan juga pada masa yang sama akan mengetengahkan usahawan-usahawan kelahiran Pulau Pinang dalam berkongsi pengalaman mereka membangunkan syarikat. Acara berkenaan juga disusun dalam membolehkan hadirin yang…",
-      "publishedAt": "2026-11-21T03:42:34.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Founders-Funders-scaled.jpg"
-    },
-    {
-      "id": "amanz-c93c5fe8e012",
-      "title": "SoftBank Baru-Baru Ini Telah Meneroka Pengambil-Alihan SK Hynix Pada Nilai Mencapai $1 Trilion",
-      "url": "https://cms.amanz.my/2026589515/#utm_source=rss&utm_medium=rss&utm_campaign=softbank-baru-baru-ini-telah-meneroka-pengambil-alihan-sk-hynix-pada-nilai-mencapai-1-trilion",
-      "summary": "CEO SoftBank, Masayoshi Son baru-baru ini telah berbincang dengan sejumlah institusi kewangan di Amerika Syarikat dalam mendana kewangan untuk pengambil-alihan SK Hynix pada nilai mencapai $1 trilion. SK Hynix sedia menerajui dalam arena semikonduktor, dan merupakan antara syarikat terbesar di Korea Selatan. Mengikut nilai dagangan saham semasa, SK Hynix dinilaikan sekitar $584 bilion. Perkembangan kecerdasan […]",
-      "publishedAt": "2026-11-21T03:07:14.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2017/02/sk-hynix-logo-805x486.jpg"
-    },
-    {
-      "id": "amanz-09bdb07b10c1",
-      "title": "Trump Akan Sekat Syarikat AS Bina Pusat Data AI di Luar Negara",
-      "url": "https://cms.amanz.my/2026589508/#utm_source=rss&utm_medium=rss&utm_campaign=trump-akan-sekat-syarikat-as-bina-pusat-data-ai-di-luar-negara",
-      "summary": "Presiden Donald Trump mengeluarkan amaran menghalang syarikat dari Amerika Syarikat daripada membina pusat data kecerdasan buatan (AI) di luar negara. Syarikat yang masih terus membina pusa data AI di luar negara akan dikenakan “cukai yang hebat” oleh kerajaan. Pengumuman ini dilakukan oleh Trump dalam sidang media di White House sebaik sahaja pulang daripada persidangan APEC […]",
-      "publishedAt": "2026-11-21T01:54:39.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2025/06/Pusat-Data-Center-805x453.jpg"
-    },
-    {
-      "id": "amanz-af77aa76e24c",
-      "title": "NVIDIA Tampal Pepijat Yang Memendekkan Hayat SSD",
-      "url": "https://cms.amanz.my/2026589503/#utm_source=rss&utm_medium=rss&utm_campaign=nvidia-tampal-pepijat-yang-memendekkan-hayat-ssd",
-      "summary": "NVIDIA mengeluarkan kemas kini GeForce Hotfix Driver 621.35 untuk menampal pepijat menyebabkan fail log bersaiz besar ditulis berkali-kali ke storan SSD yang memendekkan hayat jangka panjangnya. Pengguna kad grafik NVIDIA melaporkan sehingga 30GB data ditulis setiap jam apabila PC tidak digunakan. Isu hanya dikesan selepas perisian pemandu dikemaskini ke 621.14 dan 621.24. Kepada pemilik kad […]",
-      "publishedAt": "2026-11-21T00:48:25.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2025/01/NVIDIA-GeForce-RTX-5090-805x453.jpg"
     }
   ]
 }
