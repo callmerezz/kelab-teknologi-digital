@@ -2,204 +2,204 @@
   "schemaVersion": 1,
   "articles": [
     {
-      "id": "the-hacker-news-8720d53f4644",
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-      "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in a technical write-up. \"In the versions we analyzed, building or running a",
-      "publishedAt": "2026-11-26T03:48:52.000Z",
-      "source": "The Hacker News",
-      "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt0w3YJQrn6VoUVUTTj46NLfeL_JJE-sDoxKsuBe-_OxBtQ3iX8AZTZ1CEn39-N5TGKYd-0ZKdOT43UwAWUbpIXlFdDwhyphenhyphenEKpkQVVJYJVodQRHyz0pJeKEvJIJgUpAEQqXizajmrriq9Mj1aqioeK1Zug__X26Ra4HwzFg8ImTajGc6b7Ck9LW2OCIpPoa/s1600/dotnet.jpg"
-    },
-    {
-      "id": "the-verge-54e67f56863f",
-      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required […]",
-      "publishedAt": "2026-11-26T00:04:34.000Z",
+      "id": "the-verge-db806ae0be60",
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]",
+      "publishedAt": "2026-11-26T21:00:00.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "the-verge-4813dbe88c16",
-      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it […]",
-      "publishedAt": "2026-11-25T23:56:44.000Z",
-      "source": "The Verge",
-      "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "techcrunch-d7b28b808e94",
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
-      "publishedAt": "2026-11-25T22:44:32.000Z",
+      "id": "techcrunch-979e22972f74",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
       "source": "TechCrunch",
       "category": "Teknologi",
       "image": null
     },
     {
-      "id": "the-verge-c91a30b4e652",
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
-      "publishedAt": "2026-11-25T21:51:26.000Z",
+      "id": "techcrunch-8a47fa25d48b",
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
+      "publishedAt": "2026-11-26T20:00:00.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "the-hacker-news-0b75246ced86",
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then there’s the question of who gets to use what. Stolen logins are opening",
+      "publishedAt": "2026-11-26T19:39:57.000Z",
+      "source": "The Hacker News",
+      "category": "Teknologi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg"
+    },
+    {
+      "id": "techcrunch-58238582b61f",
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
+      "publishedAt": "2026-11-26T19:31:50.000Z",
+      "source": "TechCrunch",
+      "category": "Teknologi",
+      "image": null
+    },
+    {
+      "id": "the-verge-b7095d70f931",
+      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]",
+      "publishedAt": "2026-11-26T19:00:00.000Z",
+      "source": "The Verge",
+      "category": "Keselamatan Siber",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-verge-0b8d021f3591",
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]",
+      "publishedAt": "2026-11-26T17:07:00.000Z",
+      "source": "The Verge",
+      "category": "Keselamatan Siber",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-verge-ad78321ace86",
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]",
+      "publishedAt": "2026-11-26T17:06:24.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&amp;strip=all&amp;crop=2.859375,3.7218027238494,93.788122558594,91.658221639303"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
-      "id": "the-verge-ad65e2ff09e2",
-      "title": "The Verge’s 2026 holiday gift guide for travelers",
-      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one […]",
-      "publishedAt": "2026-11-25T21:48:00.000Z",
-      "source": "The Verge",
-      "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "techcrunch-cecacbdc2750",
-      "title": "FCC approves SpaceX plan to put AI data centers in space",
-      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
-      "publishedAt": "2026-11-25T20:56:44.000Z",
+      "id": "techcrunch-805fcb4a332b",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
+      "publishedAt": "2026-11-26T17:00:00.000Z",
       "source": "TechCrunch",
       "category": "Teknologi",
       "image": null
     },
     {
-      "id": "techcrunch-fb19c642f1b7",
-      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "publishedAt": "2026-11-25T20:03:27.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "techcrunch-74d99a307b5d",
-      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "publishedAt": "2026-11-25T19:54:57.000Z",
-      "source": "TechCrunch",
-      "category": "Teknologi",
-      "image": null
-    },
-    {
-      "id": "the-hacker-news-27873297949c",
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch",
-      "publishedAt": "2026-11-25T12:48:54.000Z",
+      "id": "the-hacker-news-0574110d7d17",
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published this week. \"When Python imports the file, the loader reads the newest transaction that an",
+      "publishedAt": "2026-11-26T15:13:41.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8jBS9UW1bUouUo2cLun5A5rtqPOFJoVQctV4ZsoX9uuMottAxM0HLjLZrvTVGU1GtrewszjOwVMBkvHgyFIBsOndc049nwMidNiVnnoKCOePOhy-XDsjiVjxFvubbxn-Z6ca8VJAxxgLmyQ9KGYBRMWV5GP2et02dmXzcG3jKJw1p_njPdaPuJAaxAz1/s1600/geoserver.png"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg"
     },
     {
-      "id": "the-hacker-news-b72d4a699599",
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The bureau collects suspicious activity reports and other Bank Secrecy Act (BSA) filings from banks and other financial",
-      "publishedAt": "2026-11-25T12:30:08.000Z",
+      "id": "the-hacker-news-54cc21ceab24",
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user. How an",
+      "publishedAt": "2026-11-26T10:57:55.000Z",
       "source": "The Hacker News",
       "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJn89Gr-RFxS6UFEzrbUZ5Ys11fK1OwvmMYUPl29eJudnlmmp7Q34p8O0DqV8SvGu4whZke8tiysvZNQWeE4Tm3zRhJSpojYAagBXGUEVM5w6lAw2Z5C-lfRaC2IwOYrnwQSWxwso31woM4CSoluNEjA3N0gFe0RQpsV0r3MCobiKFArLMa1or-QTIBcQ/s1600/fincern.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYXUiExbrrmBGGBgTjOFcDJSrLYJuITQwZY-l1mOzzkes21-mR0My9ikeCM7cI6VDXuBIE9BZPnKazemiuZf7A4w_xeeMy_IUUlNVTKX3PmW-Xt7FA9UI8JoICZDPW4ZWSspztPv_Mo4Zf7G_fXEw_phMe4uc89O38ugIlQJJKmc6VD7QN3NzU0n0SQU/s1600/push-most.jpg"
     },
     {
-      "id": "the-hacker-news-2d3fe69c638a",
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-      "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break. Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a credential can access and whether it leaked publicly, and update the",
-      "publishedAt": "2026-11-25T11:51:48.000Z",
+      "id": "the-hacker-news-5e5b0d3bb248",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a",
+      "publishedAt": "2026-11-26T10:57:25.000Z",
       "source": "The Hacker News",
-      "category": "Teknologi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil06YVYkZZwt0a8nA97RyMZvYZEQIoZ7r9_YHMtjx5eWc7RNAB4ol6OWb7NIsJOpC0v4w11xynwGgR1SsTnArvWAF7yJseVMbQfoawpTPEKYDdmH6O5UrbIZgJ2Fz9MGBFC6kF95oLeubdwlrdVKaVTPz4kjrOCH0X1neixvpNSYHhotL5WuzdYM12tUo/s1600/GitGuardian.gif"
-    },
-    {
-      "id": "amanz-d619a13f2492",
-      "title": "Siri Acerpure Pro P5 Dijual Di Malaysia Bermula Harga RM499",
-      "url": "https://cms.amanz.my/2026589903/#utm_source=rss&utm_medium=rss&utm_campaign=siri-acerpure-pro-p5-dijual-di-malaysia-bermula-harga-rm499",
-      "summary": "Acerpure Pro P5 dilancarkan di Malaysia sebagai siri penapis udara baharu untuk kegunaan di rumah dan pejabat. Siri ini ditawarkan dalam tiga model iaitu P5 Mini, P5 dan P5 Max bagi memenuhi keperluan penggunaan yang berbeza. Keriga-tiga model berkongsi teknologi teras yang sama termasuk penapis HEPA Anti-Bulu Haiwan dengan UVC, teknologi PINOKI Ion, sistem sedutan […]",
-      "publishedAt": "2026-11-25T04:59:46.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Acerpure-Pro-P5-2-scaled.jpeg"
-    },
-    {
-      "id": "soyacincau-39816d12cb71",
-      "title": "Malaysia Airlines orders 10 Boeing 787 Dreamliners to replace Airbus A350 fleet from 2032",
-      "url": "https://soyacincau.com/2026/11/25/malaysia-airlines-boeing-787-dreamliner-coming-2032/",
-      "summary": "Malaysia Airlines is getting the Boeing 787 Dreamliner as part of its long-term fleet modernisation plan. Its parent company, Malaysia Aviation Group (MAG), has announced the acquisition of 10 Boeing 787 Dreamliner aircraft, with options for an additional six units. This also marks the return of Boeing widebody aircraft to Malaysia Airlines’ fleet since it […]",
-      "publishedAt": "2026-11-25T04:38:37.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261125-boeing-787-malaysia-airlines-150x150.jpg"
-    },
-    {
-      "id": "amanz-5951e7aa53ab",
-      "title": "Pakistan Menjadi Negara Terbaru Berjaya Mengantar Angkasawan Ke Angkasa Lepas",
-      "url": "https://cms.amanz.my/2026589887/#utm_source=rss&utm_medium=rss&utm_campaign=pakistan-menjadi-negara-terbaru-berjaya-mengantar-angkasawan-ke-angkasa-lepas",
-      "summary": "Pakistan menjadi negara ke 53 berjaya menghantar angkasawan mereka ke angkasa lepas lepas pagi tadi. Angkasawan Muhammad Zeeshan Ali (40) ialah angkasawan pertama Pakistan menerusi misi Shenzhou-24 yang dilancarkan menggunakan roket Long March-2F dari Pusat Pelancaran Satelit Jiuquan, China pada jam 8.21 pagi tadi. Beliau adalah salah seorang daripada tiga krew Shenzhou-24 yang kemudiannya akan […]",
-      "publishedAt": "2026-11-25T04:06:03.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Misi-Shenzhou-24.jpg"
-    },
-    {
-      "id": "amanz-b94c353a7b5e",
-      "title": "Honor Choice Security Camera Kini Dipasarkan Pada Harga RM129",
-      "url": "https://cms.amanz.my/2026589878/#utm_source=rss&utm_medium=rss&utm_campaign=honor-choice-security-camera-kini-dipasarkan-pada-harga-rm129",
-      "summary": "Honor kini memasuki arena kamera litar tertutup untuk kegunaan di rumah menerusi pelancaran Honor Choice Security Camera semalam. Kamera ini dilengkapi sensor 3MP yang boleh melihat dalam mod warna dan juga mod malam dalam resolusi 2K. Ia boleh berputar 360 darjah bagi membolehkan pemantauan seluruh kawasan rumah dilakukan oleh pemilik. Antara ciri yang ditawarkan oleh […]",
-      "publishedAt": "2026-11-25T03:43:55.000Z",
-      "source": "Amanz",
       "category": "Keselamatan Siber",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Honor-Choice-Security-CameraB.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg"
     },
     {
-      "id": "amanz-6340aeb7d7e8",
-      "title": "Tidal Haramkan Muzik Dijana AI Mulai Disember",
-      "url": "https://cms.amanz.my/2026589875/#utm_source=rss&utm_medium=rss&utm_campaign=tidal-haramkan-muzik-dijana-ai-mulai-disember",
-      "summary": "Tidal akan mengharamkan muzik yang dijana 100% oleh kecerdasan buatan (AI) generatif bermula 9 Disember depan. Keputusan diambil bagi memberikan tumpuan kepada artis manusia. Pada waktu yang sama muzik janaan AI didapati mengelirukan pendengar dan meniru gaya artis sebenar bagi mengaut keuntungan menerusi penstriman. Pada 9 Disember, muzik yang 100% dijana AI akan dibuang dan […]",
-      "publishedAt": "2026-11-25T03:26:23.000Z",
+      "id": "soyacincau-6eaf8362b5fd",
+      "title": "BYD Shark 6 confirmed as brand’s first CKD model in Malaysia, launching Q1 2027",
+      "url": "https://soyacincau.com/2026/11/26/byd-shark-6-1st-ckd-malaysia/",
+      "summary": "BYD Malaysia and Sime Motors have officially kicked off their local assembly (CKD) operation in Malaysia, naming the BYD Shark 6 plug-in hybrid pickup truck as the very first model to roll off the local production line. Assembly operations will be carried out at Inokom Corporation, Sime Motors’ established manufacturing facility in Kulim, Kedah. A […]",
+      "publishedAt": "2026-11-26T04:30:55.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261126-byd-shark-6-ckd-launch01-150x150.jpg"
+    },
+    {
+      "id": "amanz-807044103eec",
+      "title": "Siri Televisyen Pintar Haier UltraSense AI QD-Mini LED M90, M92 dan M96 Diperkenalkan Untuk Pasaran Tempatan",
+      "url": "https://cms.amanz.my/2026590057/#utm_source=rss&utm_medium=rss&utm_campaign=siri-televisyen-pintar-haier-ultrasense-ai-qd-mini-led-m90-m92-dan-m96-diperkenalkan-untuk-pasaran-tempatan",
+      "summary": "Haier, jenama perkakasan elektronik terkemuka hari ini telah memperkenalkan tiga siri televisyen pintar baharu yang dikuasakan teknologi kecerdasan buatan dan juga falsafah ‘More Than Vision’ mereka. Model-model televisyen ini tampil menggunakan teknologi Haier UltraSense AI yang bukan sahaja menawarkan olahan warna jitu, output yang tajam dan juga sokongan untuk kadar segar semula yang tinggi. Tiga […]",
+      "publishedAt": "2026-11-26T04:17:38.000Z",
       "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2020/03/TIDAL-LOGO-805x453.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/20261126_111731_batch-950x713.jpg"
     },
     {
-      "id": "soyacincau-d344d7d946d0",
-      "title": "MCMC sues Google for RM300 million over failure to remove Papagomo’s YouTube content",
-      "url": "https://soyacincau.com/2026/11/25/mcmc-sues-google-rm300-mil-fail-take-down-alleged-fake-defamatory-papagomo-youtube-video/",
-      "summary": "The Malaysian Communications and Multimedia Commission (MCMC) has filed a RM300 million lawsuit against Google for allegedly failing to remove false and defamatory content published on YouTube by blogger Wan Muhammad Azri Wan Deris, who is also known as Papagomo. The regulator claims that Google was negligent and failed to fulfil its statutory obligations under […]",
-      "publishedAt": "2026-11-25T02:03:05.000Z",
-      "source": "SoyaCincau",
+      "id": "amanz-2cf10260419b",
+      "title": "Huawei Mate 90 Air Dilancarkan Dengan Tubuh Nipis Dan Bateri 6500mAh",
+      "url": "https://cms.amanz.my/2026590053/#utm_source=rss&utm_medium=rss&utm_campaign=huawei-mate-90-air-dilancarkan-dengan-tubuh-nipis-dan-bateri-6500mah",
+      "summary": "Huawei secara rasmi melancarkan Mate 90 Air yang menggabungkan elemen premium melalui reka bentuk nipis tanpa mengorbankan kapasiti bateri yang besar. Antara sorotan utama peranti ini ialah tubuh setebal 6.58mm yang dipadankan dengan bateri 6500mAh sekali gus menjadikannya antara telefon Huawei paling nipis dengan bateri berkapasiti besar. Ia juga dilengkapi skrin 7-inci dengan nisbah skrin-ke-badan […]",
+      "publishedAt": "2026-11-26T03:09:34.000Z",
+      "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2024/07/240727-mcmc-office-logo-150x150.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Huawei-Mate-90-Air-3-scaled.webp"
     },
     {
-      "id": "soyacincau-1b565010db16",
-      "title": "Honor Pad X9b Max: 13″ tablet with 120Hz display and 10,100mAh battery priced at RM1,499",
-      "url": "https://soyacincau.com/2026/11/24/honor-pad-x9b-max-13-tablet-malaysia-launch-price-specs/",
-      "summary": "Besides the Honor Magic 9 Pro Max, Honor has also launched its new Honor Pad X9b Max in Malaysia. This is a large-screen which offers a large 13-inch 2.5K display with IMAX Enhanced certification and a massive 10,100mAh battery. For a more productive setup, Honor Malaysia is also bundling a Bluetooth keyboard and stylus at no […]",
-      "publishedAt": "2026-11-24T10:43:07.000Z",
-      "source": "SoyaCincau",
+      "id": "amanz-5c6d2baf4643",
+      "title": "Rekaan Penuh Nothing Ear (Note) Diperlihatkan Menjelang Pelancaran Rasmi",
+      "url": "https://cms.amanz.my/2026590042/#utm_source=rss&utm_medium=rss&utm_campaign=rekaan-penuh-nothing-ear-note-diperlihatkan-menjelang-pelancaran-rasmi",
+      "summary": "Nothing akhirnya mendedahkan reka bentuk penuh Ear (Note) menerusi video rasmi terbaharunya. Tumpuan utama sudah semestinya terarah kepada pod pengecasan yang berbeza daripada mana-mana aksesori audio Nothing sebelum ini. Pod pengecas tersebut lebih besar dan berkotak berbanding siri Nothing Ear sedia ada. Ia turut dilengkapi lampu penunjuk berwarna merah dan hijau serta butang “TALK” yang […]",
+      "publishedAt": "2026-11-26T02:26:52.000Z",
+      "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261124-honor-pad-x9b-max-01-150x150.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Nothing-Ear-note-8.jpg"
     },
     {
-      "id": "soyacincau-6b4b85695f01",
-      "title": "Honor Magic 9 Pro Max with dual 200MP ARRI cinematic cameras launched in Malaysia for RM5,999",
-      "url": "https://soyacincau.com/2026/11/24/honor-magic-9-pro-max-malaysia-launch-preorder-pricing-specs/",
-      "summary": "The Honor Magic 9 Pro Max has officially launched in Malaysia. This is Honor’s latest top-of-the-line flagship smartphone which focuses on mobile filmmaking. Marking the 10th anniversary of its Magic series, Honor has teamed up with renowned German cinema technology company ARRI to bring professional filmmaking features and colour science to its flagship smartphone. Besides […]",
-      "publishedAt": "2026-11-24T09:08:51.000Z",
+      "id": "soyacincau-ed214df4740d",
+      "title": "MCMC and Huawei wrap up Digital Leadership Excellence programme with 308 graduates",
+      "url": "https://soyacincau.com/2026/11/26/mcmc-and-huawei-digital-leadership-excellence-programme-final-2026/",
+      "summary": "The Malaysian Communications and Multimedia Commission (MCMC) and Huawei Malaysia have officially concluded their Digital Leadership Excellence (DLE) Programme, exceeding their target of training 300 digital leaders by the end of 2026. The fifth and final cohort saw 66 mid- and senior-level leaders complete the programme, bringing the total number of graduates to 308 across five […]",
+      "publishedAt": "2026-11-26T01:34:13.000Z",
       "source": "SoyaCincau",
       "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261124-honor-magic-9-pro-max-malaysia-01-150x150.jpg"
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261126-Huawei-Malaysia-MCMC-fifth-cohort-DLE-150x150.jpg"
+    },
+    {
+      "id": "soyacincau-9f8d2d53454b",
+      "title": "1Password hit by security breach, customer names and emails exposed",
+      "url": "https://soyacincau.com/2026/11/26/1password-security-breach-customer-names-and-emails-exposed/",
+      "summary": "Popular password manager 1Password has disclosed a security breach involving its backend systems. The incident resulted in the theft of some customer data which include names and email addresses. However, 1Password has assured that its customers’ password vaults and their contents remain secure. While users are not required to change their passwords following the incident, […]",
+      "publishedAt": "2026-11-26T00:45:50.000Z",
+      "source": "SoyaCincau",
+      "category": "Keselamatan Siber",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261126-1password-150x150.jpg"
+    },
+    {
+      "id": "amanz-4717d4d4fd61",
+      "title": "ChatGPT Akan Gabungkan Had Penggunaan Bersama Codex Bermula Disember",
+      "url": "https://cms.amanz.my/2026590039/#utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-akan-gabungkan-had-penggunaan-bersama-codex-bermula-disember",
+      "summary": "OpenAI kini memaklumkan bermula Disember 2026 kelak, mereka akan gabungkan had penggunaan ChatGPT biasa bersama Codex. Langkah ini selari dalam pihak ChatGPT mengabungkan tab ChatGPT Chat bersama ChatGPT Work. OpenAI menyatakan penggunaan selepas ini akan dinilai berasaskan penggunaan token, dan sekiranya tugasan anda lebih rumit, maka token lebih banyak akan digunakan – sekaligus mencapai had […]",
+      "publishedAt": "2026-11-26T00:06:00.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/06/ChatGPT-scaled.jpg"
+    },
+    {
+      "id": "soyacincau-7559bee67893",
+      "title": "Cikgu ILMU: Malaysia’s free AI tool that helps parents help their children with their studies",
+      "url": "https://soyacincau.com/2026/11/25/ytl-ai-labs-cikgu-ilmu-official-launch-parents-help-children-homework/",
+      "summary": "YTL AI Labs has launched Cikgu ILMU, a free AI-powered learning tool designed to help Malaysian parents support their children’s education. Powered by its homegrown ILMU AI model, the app can help parents explain homework questions, generate study materials and prepare their children for exams. Unlike general-purpose AI chatbots, Cikgu ILMU is designed specifically for […]",
+      "publishedAt": "2026-11-25T11:13:38.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261125-YTL-AI-Labs-Cikgu-ILMU-150x150.jpg"
     }
   ]
 }
