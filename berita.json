@@ -2,14 +2,134 @@
   "schemaVersion": 1,
   "articles": [
     {
-      "id": "the-verge-db806ae0be60",
-      "title": "Netflix’s coziest show has made a very quiet return",
-      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]",
-      "publishedAt": "2026-11-26T21:00:00.000Z",
+      "id": "the-verge-8ac90c21a030",
+      "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest […]",
+      "publishedAt": "2026-11-28T03:30:00.000Z",
+      "source": "The Verge",
+      "category": "Keselamatan Siber",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-verge-328423d917a0",
+      "title": "The absolute best Black Friday deals you can still get",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber […]",
+      "publishedAt": "2026-11-28T03:28:32.000Z",
+      "source": "The Verge",
+      "category": "Keselamatan Siber",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-verge-117a0da82d3c",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff […]",
+      "publishedAt": "2026-11-28T01:30:00.000Z",
+      "source": "The Verge",
+      "category": "Keselamatan Siber",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-verge-ac0ee698ab46",
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called […]",
+      "publishedAt": "2026-11-28T00:02:49.000Z",
       "source": "The Verge",
       "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
+    },
+    {
+      "id": "the-hacker-news-a061202fd8df",
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveLotus. The activity is assessed to have comprised five intrusions in Thailand",
+      "publishedAt": "2026-11-27T16:36:11.000Z",
+      "source": "The Hacker News",
+      "category": "Keselamatan Siber",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj19T-kU1dmVfKt2PtUQ2I25MGovj8kmv6lMkk6inlif4yLeezJS4kVRTvsARL5UkpTT66jYru6k2b5bmWfjjlkmG4JznSKmkmd4ldXcyxTw3xsU5nP6_jxfWMw9thW37m5usfr-eWAZBHq6bPuS613CIx9XgWxPcSVFcZVgz_9tWd5Nu8YWAxexuqcVPrN/s1600/data.jpg"
+    },
+    {
+      "id": "the-hacker-news-c60eeeaa334b",
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.codes-team[.]com\"), from where a Microsoft-signed installer called \"Snipping-Tool.exe\" is",
+      "publishedAt": "2026-11-27T11:49:34.000Z",
+      "source": "The Hacker News",
+      "category": "Keselamatan Siber",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpD815FTK1v-12AKbFYOz3fplAY5EWVRrb1mh5LOUSmUmG7u7mdgGnppCpL9-ZaG-3CyWm_2KP4icW3UY1Q3AYG6lEe03ezqY9Jx49mW9SC4D0JqiUhT-Rmet7lin7u1bHdyppzeay-bTKDty53IDUI_P9md3iUp5xaY-ko1U2uBRTkNdPhAVTYuW9hDmO/s1600/ms-store.png"
+    },
+    {
+      "id": "the-hacker-news-982bfc2fadcb",
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the environment that week. Someone pulls them together the week before, cleans them up, and presents a picture of a program that is,",
+      "publishedAt": "2026-11-27T10:32:18.000Z",
+      "source": "The Hacker News",
+      "category": "Keselamatan Siber",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg"
+    },
+    {
+      "id": "the-hacker-news-d8fcf47e119c",
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were generated not only when users downloaded the programs directly from the official download page but also during the update process of previously installed",
+      "publishedAt": "2026-11-27T09:29:30.000Z",
+      "source": "The Hacker News",
+      "category": "Keselamatan Siber",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg"
+    },
+    {
+      "id": "soyacincau-374d6e381b70",
+      "title": "Astro X3 now offers no-contract plans from RM39.99/month for the first 3 months",
+      "url": "https://soyacincau.com/2026/11/27/astro-x3-no-contract-plans-now-available-from-rm39-99/",
+      "summary": "Astro has officially introduced its no-contract subscription plans for Astro X3, allowing Malaysians to enjoy its device-free pay-TV service without committing to a 12-month contract. As part of its limited-time launch promotion, you can enjoy the lower monthly subscription rates normally associated with its 12-month contract plans for the first three months, but without any […]",
+      "publishedAt": "2026-11-27T04:15:27.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261127-astro-x3-no-contract-150x150.jpg"
+    },
+    {
+      "id": "amanz-c11017e90270",
+      "title": "WhatsApp Menguji Fungsi Travel eSIM Bagi Memudahkan Pengguna Ketika Melancong",
+      "url": "https://cms.amanz.my/2026590196/#utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-menguji-fungsi-travel-esim-bagi-memudahkan-pengguna-ketika-melancong",
+      "summary": "WhatsApp kini menguji ciri Travel eSIM yang membolehkan pengguna membeli dan memasang pelan data antarabangsa terus melalui aplikasinya. Pengenalan ciri ini menunjukkan usaha WhatsApp untuk meluaskan penawaran perkhidmatannya dengan menyediakan lebih daripada sekadar platform permesejan. Menerusi ciri ini, pengguna boleh membeli pelan data antarabangsa secara terus melalui WhatsApp bagi memastikan mereka kekal berhu…",
+      "publishedAt": "2026-11-27T04:04:53.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/06/WhatsApp-Logo-scaled.jpg"
+    },
+    {
+      "id": "soyacincau-205579e465be",
+      "title": "Tesla Model 3 now gets free add-on upgrades worth up to RM11,000, total savings up to RM27,000",
+      "url": "https://soyacincau.com/2026/11/27/tesla-model-3-malaysia-year-end-promo-free-upgrades-save-up-to-rm27000/",
+      "summary": "If you’ve been thinking of getting a Tesla Model 3, Tesla Malaysia is now running a free upgrade promo for a limited time. Customers can enjoy complimentary upgrades for paint, wheels or interior options worth up to RM11,000, along with additional financing or trade-in incentives. Together with its Refer & Earn programme, customers can enjoy […]",
+      "publishedAt": "2026-11-27T02:32:49.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/10/261016-tesla-model-3-2026-update-01-150x150.jpg"
+    },
+    {
+      "id": "soyacincau-bbb3350e00bd",
+      "title": "Proton Persona bids farewell after 19 years and over 473,000 units sold",
+      "url": "https://soyacincau.com/2026/11/27/proton-persona-farewell-19-years-473k-units-sold/",
+      "summary": "After nearly two decades on the road, Proton has officially wrapped up the Proton Persona’s run with the final unit delivered to a customer earlier this week. Since making its Malaysian debut on 15 August 2007, the sedan has recorded cumulative sales of 473,346 units across both domestic and export markets. Two generations of a […]",
+      "publishedAt": "2026-11-27T02:18:06.000Z",
+      "source": "SoyaCincau",
+      "category": "Teknologi",
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/proton-persona-final-unit01-150x150.jpg"
+    },
+    {
+      "id": "amanz-24bdd1782623",
+      "title": "Acara Impact Tech dan JomLaunch Akan Berlangsung Pada Penghujung Minggu Ini Di UIAM Gombak",
+      "url": "https://cms.amanz.my/2026590193/#utm_source=rss&utm_medium=rss&utm_campaign=acara-impact-tech-dan-jomlaunch-akan-berlangsung-pada-penghujung-minggu-ini-di-uiam-gombak",
+      "summary": "Bagi para pembangun tempatan, salah satu acara yang mungkin dinantikan adalah JomLaunch. Kebiasaannya, para pembangun akan bertemu dalam berkongsi perkembangan terbaru, disamping memperlihatkan pembentangan sejumlah projek-projek tempatan yang baharu. Untuk tahun ini, JomLaunch akan berlangsung penghujung minggu ini, selari dengan acara Impact Tech Symposium 2026 – pada 28 dan 29 November 2026. Acara dua hari […]",
+      "publishedAt": "2026-11-27T00:32:28.000Z",
+      "source": "Amanz",
+      "category": "Teknologi",
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/JomLaunch.jpg"
     },
     {
       "id": "techcrunch-979e22972f74",
@@ -32,16 +152,6 @@
       "image": null
     },
     {
-      "id": "the-hacker-news-0b75246ced86",
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
-      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then there’s the question of who gets to use what. Stolen logins are opening",
-      "publishedAt": "2026-11-26T19:39:57.000Z",
-      "source": "The Hacker News",
-      "category": "Teknologi",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg"
-    },
-    {
       "id": "techcrunch-58238582b61f",
       "title": "X finally gets parental controls after 20 years",
       "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
@@ -50,36 +160,6 @@
       "source": "TechCrunch",
       "category": "Teknologi",
       "image": null
-    },
-    {
-      "id": "the-verge-b7095d70f931",
-      "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-      "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
-      "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]",
-      "publishedAt": "2026-11-26T19:00:00.000Z",
-      "source": "The Verge",
-      "category": "Keselamatan Siber",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "the-verge-0b8d021f3591",
-      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]",
-      "publishedAt": "2026-11-26T17:07:00.000Z",
-      "source": "The Verge",
-      "category": "Keselamatan Siber",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
-    },
-    {
-      "id": "the-verge-ad78321ace86",
-      "title": "Android app developers will soon have to share their address publicly",
-      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-      "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]",
-      "publishedAt": "2026-11-26T17:06:24.000Z",
-      "source": "The Verge",
-      "category": "Teknologi",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"
     },
     {
       "id": "techcrunch-805fcb4a332b",
@@ -92,114 +172,34 @@
       "image": null
     },
     {
-      "id": "the-hacker-news-0574110d7d17",
-      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published this week. \"When Python imports the file, the loader reads the newest transaction that an",
-      "publishedAt": "2026-11-26T15:13:41.000Z",
-      "source": "The Hacker News",
-      "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg"
-    },
-    {
-      "id": "the-hacker-news-54cc21ceab24",
-      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user. How an",
-      "publishedAt": "2026-11-26T10:57:55.000Z",
-      "source": "The Hacker News",
-      "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYXUiExbrrmBGGBgTjOFcDJSrLYJuITQwZY-l1mOzzkes21-mR0My9ikeCM7cI6VDXuBIE9BZPnKazemiuZf7A4w_xeeMy_IUUlNVTKX3PmW-Xt7FA9UI8JoICZDPW4ZWSspztPv_Mo4Zf7G_fXEw_phMe4uc89O38ugIlQJJKmc6VD7QN3NzU0n0SQU/s1600/push-most.jpg"
-    },
-    {
-      "id": "the-hacker-news-5e5b0d3bb248",
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a",
-      "publishedAt": "2026-11-26T10:57:25.000Z",
-      "source": "The Hacker News",
-      "category": "Keselamatan Siber",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg"
-    },
-    {
-      "id": "soyacincau-6eaf8362b5fd",
-      "title": "BYD Shark 6 confirmed as brand’s first CKD model in Malaysia, launching Q1 2027",
-      "url": "https://soyacincau.com/2026/11/26/byd-shark-6-1st-ckd-malaysia/",
-      "summary": "BYD Malaysia and Sime Motors have officially kicked off their local assembly (CKD) operation in Malaysia, naming the BYD Shark 6 plug-in hybrid pickup truck as the very first model to roll off the local production line. Assembly operations will be carried out at Inokom Corporation, Sime Motors’ established manufacturing facility in Kulim, Kedah. A […]",
-      "publishedAt": "2026-11-26T04:30:55.000Z",
+      "id": "soyacincau-3d2919b323e9",
+      "title": "This ASUS AI workstation laptop costs nearly RM30,000. Here’s what you actually get",
+      "url": "https://soyacincau.com/2026/11/26/asus-proart-p14-malaysia-price-specs-ai-workstation/",
+      "summary": "This post is brought to you by ASUS. When most capable laptops for everyday work, study, or gaming sit comfortably in the RM3,000 to RM8,000 range, a 14-inch notebook carrying a RM29,999 price tag is bound to make anyone do a double-take. That is essentially Perodua Axia money for a machine that slips right into […]",
+      "publishedAt": "2026-11-26T15:10:42.000Z",
       "source": "SoyaCincau",
       "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261126-byd-shark-6-ckd-launch01-150x150.jpg"
+      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261126-Asus-ProArt-14-AI-RTX-Spark-advertorial-16-150x150.jpg"
     },
     {
-      "id": "amanz-807044103eec",
-      "title": "Siri Televisyen Pintar Haier UltraSense AI QD-Mini LED M90, M92 dan M96 Diperkenalkan Untuk Pasaran Tempatan",
-      "url": "https://cms.amanz.my/2026590057/#utm_source=rss&utm_medium=rss&utm_campaign=siri-televisyen-pintar-haier-ultrasense-ai-qd-mini-led-m90-m92-dan-m96-diperkenalkan-untuk-pasaran-tempatan",
-      "summary": "Haier, jenama perkakasan elektronik terkemuka hari ini telah memperkenalkan tiga siri televisyen pintar baharu yang dikuasakan teknologi kecerdasan buatan dan juga falsafah ‘More Than Vision’ mereka. Model-model televisyen ini tampil menggunakan teknologi Haier UltraSense AI yang bukan sahaja menawarkan olahan warna jitu, output yang tajam dan juga sokongan untuk kadar segar semula yang tinggi. Tiga […]",
-      "publishedAt": "2026-11-26T04:17:38.000Z",
+      "id": "amanz-0833f1e4173c",
+      "title": "NCSpeech Technologies Jadi Pilihan Juri Dalam Program Cyberview Living Lab Accelerator (CLLA) Kohort 22",
+      "url": "https://cms.amanz.my/2026590150/#utm_source=rss&utm_medium=rss&utm_campaign=ncspeech-technologies-jadi-pilihan-juri-dalam-program-cyberview-living-lab-accelerator-clla-kohort-22",
+      "summary": "Cyberview Living Lab Accelerator (CLLA) Kohort 22 menghimpunkan 19 startup dari seluruh Malaysia dalam program pembangunan yang berlangsung selama 12 minggu. Pada sesi Demo Day, 8 startup yang disenarai pendek membentangkan penyelesaian teknologi masing-masing di hadapan panel pelabur dan wakil industri untuk merebut hadiah keseluruhan bernilai RM8,000. Antara startup yang disenarai pendek ialah NCSpeech Technologie…",
+      "publishedAt": "2026-11-26T14:17:56.000Z",
       "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/20261126_111731_batch-950x713.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Program-Cyberview-Living-Lab-Accelerator-CLLA-Kohort-22-1-scaled.jpg"
     },
     {
-      "id": "amanz-2cf10260419b",
-      "title": "Huawei Mate 90 Air Dilancarkan Dengan Tubuh Nipis Dan Bateri 6500mAh",
-      "url": "https://cms.amanz.my/2026590053/#utm_source=rss&utm_medium=rss&utm_campaign=huawei-mate-90-air-dilancarkan-dengan-tubuh-nipis-dan-bateri-6500mah",
-      "summary": "Huawei secara rasmi melancarkan Mate 90 Air yang menggabungkan elemen premium melalui reka bentuk nipis tanpa mengorbankan kapasiti bateri yang besar. Antara sorotan utama peranti ini ialah tubuh setebal 6.58mm yang dipadankan dengan bateri 6500mAh sekali gus menjadikannya antara telefon Huawei paling nipis dengan bateri berkapasiti besar. Ia juga dilengkapi skrin 7-inci dengan nisbah skrin-ke-badan […]",
-      "publishedAt": "2026-11-26T03:09:34.000Z",
+      "id": "amanz-923719d06d4c",
+      "title": "Ulasan DJI Osmo Pocket 4P – Kamera Poket Yang Terlalu Profesional",
+      "url": "https://cms.amanz.my/2026587907/#utm_source=rss&utm_medium=rss&utm_campaign=ulasan-dji-osmo-pocket-4p-kamera-poket-yang-terlalu-profesional",
+      "summary": "Sejak munculnya kamera poket yang lengkap dengan sistem gimbal, kita memang tidak boleh asingkan nama DJI dengan produk tersebut. Bermula dengan Osmo Pocket 1 dan kini sampai generasi yang ke-4 dengan dua model berbeza. DJI Osmo Pocket 4P muncul untuk memberikan pencipta kandungan lebih ruang kreativiti menghasilkan video yang mereka inginkan. Dalam ulasan ini, saya […]",
+      "publishedAt": "2026-11-26T08:20:21.000Z",
       "source": "Amanz",
       "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Huawei-Mate-90-Air-3-scaled.webp"
-    },
-    {
-      "id": "amanz-5c6d2baf4643",
-      "title": "Rekaan Penuh Nothing Ear (Note) Diperlihatkan Menjelang Pelancaran Rasmi",
-      "url": "https://cms.amanz.my/2026590042/#utm_source=rss&utm_medium=rss&utm_campaign=rekaan-penuh-nothing-ear-note-diperlihatkan-menjelang-pelancaran-rasmi",
-      "summary": "Nothing akhirnya mendedahkan reka bentuk penuh Ear (Note) menerusi video rasmi terbaharunya. Tumpuan utama sudah semestinya terarah kepada pod pengecasan yang berbeza daripada mana-mana aksesori audio Nothing sebelum ini. Pod pengecas tersebut lebih besar dan berkotak berbanding siri Nothing Ear sedia ada. Ia turut dilengkapi lampu penunjuk berwarna merah dan hijau serta butang “TALK” yang […]",
-      "publishedAt": "2026-11-26T02:26:52.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Nothing-Ear-note-8.jpg"
-    },
-    {
-      "id": "soyacincau-ed214df4740d",
-      "title": "MCMC and Huawei wrap up Digital Leadership Excellence programme with 308 graduates",
-      "url": "https://soyacincau.com/2026/11/26/mcmc-and-huawei-digital-leadership-excellence-programme-final-2026/",
-      "summary": "The Malaysian Communications and Multimedia Commission (MCMC) and Huawei Malaysia have officially concluded their Digital Leadership Excellence (DLE) Programme, exceeding their target of training 300 digital leaders by the end of 2026. The fifth and final cohort saw 66 mid- and senior-level leaders complete the programme, bringing the total number of graduates to 308 across five […]",
-      "publishedAt": "2026-11-26T01:34:13.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261126-Huawei-Malaysia-MCMC-fifth-cohort-DLE-150x150.jpg"
-    },
-    {
-      "id": "soyacincau-9f8d2d53454b",
-      "title": "1Password hit by security breach, customer names and emails exposed",
-      "url": "https://soyacincau.com/2026/11/26/1password-security-breach-customer-names-and-emails-exposed/",
-      "summary": "Popular password manager 1Password has disclosed a security breach involving its backend systems. The incident resulted in the theft of some customer data which include names and email addresses. However, 1Password has assured that its customers’ password vaults and their contents remain secure. While users are not required to change their passwords following the incident, […]",
-      "publishedAt": "2026-11-26T00:45:50.000Z",
-      "source": "SoyaCincau",
-      "category": "Keselamatan Siber",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261126-1password-150x150.jpg"
-    },
-    {
-      "id": "amanz-4717d4d4fd61",
-      "title": "ChatGPT Akan Gabungkan Had Penggunaan Bersama Codex Bermula Disember",
-      "url": "https://cms.amanz.my/2026590039/#utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-akan-gabungkan-had-penggunaan-bersama-codex-bermula-disember",
-      "summary": "OpenAI kini memaklumkan bermula Disember 2026 kelak, mereka akan gabungkan had penggunaan ChatGPT biasa bersama Codex. Langkah ini selari dalam pihak ChatGPT mengabungkan tab ChatGPT Chat bersama ChatGPT Work. OpenAI menyatakan penggunaan selepas ini akan dinilai berasaskan penggunaan token, dan sekiranya tugasan anda lebih rumit, maka token lebih banyak akan digunakan – sekaligus mencapai had […]",
-      "publishedAt": "2026-11-26T00:06:00.000Z",
-      "source": "Amanz",
-      "category": "Teknologi",
-      "image": "https://cms.amanz.my/wp-content/uploads/2026/06/ChatGPT-scaled.jpg"
-    },
-    {
-      "id": "soyacincau-7559bee67893",
-      "title": "Cikgu ILMU: Malaysia’s free AI tool that helps parents help their children with their studies",
-      "url": "https://soyacincau.com/2026/11/25/ytl-ai-labs-cikgu-ilmu-official-launch-parents-help-children-homework/",
-      "summary": "YTL AI Labs has launched Cikgu ILMU, a free AI-powered learning tool designed to help Malaysian parents support their children’s education. Powered by its homegrown ILMU AI model, the app can help parents explain homework questions, generate study materials and prepare their children for exams. Unlike general-purpose AI chatbots, Cikgu ILMU is designed specifically for […]",
-      "publishedAt": "2026-11-25T11:13:38.000Z",
-      "source": "SoyaCincau",
-      "category": "Teknologi",
-      "image": "https://soyacincau.com/wp-content/uploads/2026/11/261125-YTL-AI-Labs-Cikgu-ILMU-150x150.jpg"
+      "image": "https://cms.amanz.my/wp-content/uploads/2026/11/Pocket4F16-scaled.jpg"
     }
   ]
 }
